@@ -46,3 +46,20 @@ Stephane is currently the Executive Director of MboaLab and has close to two yea
 - GitHub profile: https://github.com/Fadanka
 - GitLab profile: https://gitlab.com/stephanefadanka
 - Twitter profile: https://twitter.com/StephaneFadanka
+
+
+# Nodira Ibrogimova
+## Personal info:
+Nodira Ibrogimova is a Machine Learning enthusiast with 3+ years of experience in Web Development and Machine Learning.
+
+Her passion in Computer Science and Artificial Intelligence has ultimetely lead to hold a Bachelor's Degree from South Korean university - Inha University.
+
+Currently researching and working on early diagnosis tools.
+
+- Timezone: (GMT+5)
+- Location: Uzbekistan
+
+## Contact info:
+- Personal email: "Nodira Ibrogimova" <nodira.ibrogimova@gmail.com>
+- Username on community forums or chat: Nodira Ibrogimova
+- GitHub profile: https://github.com/NodiraIbrogimova
