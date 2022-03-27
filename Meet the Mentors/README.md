@@ -63,3 +63,20 @@ Currently researching and working on early diagnosis tools.
 - Personal email: "Nodira Ibrogimova" <nodira.ibrogimova@gmail.com>
 - Username on community forums or chat: Nodira Ibrogimova
 - GitHub profile: https://github.com/NodiraIbrogimova
+
+# Bidossessi Agossou
+## Personal info:
+Bidossessi Agossou also called Bido is an open source contributor at MboaLab.
+Bido is holder of a two MSc in Computer science and information systems from the University of Namur (Belgium) and Kobe Institute of Computing(Japan). He also have a BSc in Computer Engineering and English from the university of Abomey Calavi (Benin).
+He is Currently working in Benin (West Africa) as a Country manager for one Japanese company in providing Internet and digital services in rural areas. Bido also is the CEO of AWANU TECH Consulting, a newly established start-up in Benin which provides ICT, Coding and Robotics skills to kids and young Benineses, digital transformation and Tourism as well.
+
+- Timezone: Africa/Cotonou
+- Location: Benin
+
+## Contact info:
+- Personal email: "Bidossessi Emmanuel Agossou" <agossouema2011@gmail.com>
+- Username on community forums or chat: Bido
+- GitHub profile: https://www.github.com/agossoubido2021
+- GitLab profile: https://gitlab.com/agossoubido2021
+- Blog: https://www.linkedin.com/in/emmanuel-agossou-608b16129
+- Twitter profile: https://twitter.com/agossouema2011
