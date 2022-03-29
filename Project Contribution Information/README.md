@@ -11,7 +11,7 @@ Applicants can contribute to this project through the [project repository](https
 
 ## Selecting a Task
 
-Lists of newcomer-friendly and advanced tasks can be found in the [Starter Tasks](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/tree/main/Starter%20Tasks) folder in the project repository. 
+Lists of newcomer-friendly and advanced tasks can be found in the [Starter Tasks](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Starter%20Tasks/Task%200) folder in the project repository. 
 Applicants are encouraged to select a task based on personal interest, background and skills.
 
 _**Both individual or collective contributions to a particular task are welcomed.**_
