@@ -7,11 +7,11 @@ As part of the application process, all applicants must make at least one contri
  
 We are looking for motivated interns who can work in an inclusive and multidisciplinary environment, to contribute to setting up a local and robust dataset subdivided into two main subsets: the first consisting of images and the second of structured data. The dataset should be open, interoperable and aligned with the Metadata Schema 4.4 https://schema.datacite.org/.
 
-Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round) on GitHub. 
+Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022) on GitHub. 
 
 ## Selecting a Task
 
-Lists of newcomer-friendly and advanced tasks can be found in the [Starter Tasks](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/tree/main/Starter%20Tasks) folder in the project repository. 
+Lists of newcomer-friendly and advanced tasks can be found in the [Starter Tasks](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Starter%20Tasks) folder in the project repository. 
 Applicants are encouraged to select a task based on personal interest, background and skills.
 
 _**Both individual or collective contributions to a particular task are welcomed.**_
