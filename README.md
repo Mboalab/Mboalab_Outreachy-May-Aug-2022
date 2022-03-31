@@ -8,12 +8,12 @@ Both applicants with previous experience in open-source contributions and comple
 >**_Our main objective is to provide applicants with notions on open-source contributions and spirit, as well as with basics and advanced skills needed to complete the project;_**
 
 ## How to contribute to the project?
-Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round) on GitHub. 
+Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Project%20Contribution%20Information) on GitHub. 
 Check the Contributions Guidelines and the list of details via [Technical Documentation](https://docs.google.com/document/d/1fzB-AcfYNnsvqBlwyJZJR1SfuvpjYxxpONnv13bPGqg/edit?usp=sharing)
 
 ## Mentor attribution
 Each project’s Starter Task is supervised by a specific mentor. Applicants desiring to contribute to a specific task should get in touch with the assigned mentor. 
 Information about the assigned mentor can be found in the task’s descriptions.
-Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/blob/main/Meet%20the%20Mentors/Mboalab%20Community%20Mentors.md).
-See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/tree/main/Meet%20the%20Mentors)
-Feel free to reach out `@Bido` and `@Nodira` for more guidance and details.
+Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/blob/main/Meet%20the%20Mentors/README.md).
+See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet%20the%20Mentors)
+Feel free to reach out [`@Bido`](https://github.com/agossoubido2021) and [`@Nodira`](https://github.com/NodiraIbrogimova) for more guidance and details.
