@@ -1,3 +1,21 @@
+<div id="top" align="center">
+
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Mboalab&style=style=flat&color=BC4E99" alt="Star Badge"/>
+<a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/stargazers"><img src="https://img.shields.io/github/stars/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Stars Badge"/></a>
+<a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/network/members"><img src="https://img.shields.io/github/forks/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Forks Badge"/></a>
+<a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/pulls"><img src="https://img.shields.io/github/issues-pr/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/issues"><img src="https://img.shields.io/github/issues/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Issues Badge"/></a>
+  
+  ![Mboalab](https://user-images.githubusercontent.com/63330165/161022905-50be0130-c1f8-4beb-95ea-137e6c780d5e.jpg)
+  
+<a href="https://twitter.com/LabMboa" ><img src="https://img.shields.io/twitter/follow/LabMboa.svg?style=social" /> </a>
+<a href="https://www.mboalab.africa/"><img src="https://img.shields.io/discord/.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://www.mboalab.africa/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/LabMboa)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mboalab/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/)  &nbsp; <a href="mailto:thomasmboa@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  
+  </div>
+  
 # Mboalab
 
 Mboalab is an open and collaborative space located in the village of Mefou-Assi, Yaounde, Cameroon. The aim of Mboalab is to catalyse sustainable development and improve people's living conditions through open science. We bring together researchers, scholars, educationists, policy makers and the general public to discuss, conceive and implement projects responding to the health, economic and social needs of the community, such as the coronavirus pandemic. Our approach focuses on the integration of local knowledge by centering the local community especially women.
