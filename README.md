@@ -12,7 +12,7 @@
 <a href="https://twitter.com/LabMboa" ><img src="https://img.shields.io/twitter/follow/LabMboa.svg?style=social" /> </a>
 <a href="https://www.mboalab.africa/"><img src="https://img.shields.io/discord/.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://www.mboalab.africa/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/LabMboa)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mboalab/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/)  &nbsp; <a href="mailto:thomasmboa@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://www.mboalab.africa/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/LabMboa)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mboalab/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:thomasmboa@gmail.com)
   
   </div>
   
@@ -35,7 +35,8 @@ To this end, the main missions of Mboalab are as follows:
 # Know More About Us
 
 ### Lab Tour
-You can take a tour of our lab [here](https://www.youtube.com/watch?v=Tfx-C--iELU).
+-  You can take a tour of our lab [here](https://www.youtube.com/watch?v=Tfx-C--iELU).
+  
 ### Key Collaborations
 - [Open Bioeconomy Lab](https://openbioeconomy.org/)
 - [Africa Open Science & Hardware](https://africaosh.com/)
@@ -70,5 +71,5 @@ Check the Contributions Guidelines and the list of details via [Technical Docume
 Each project’s Starter Task is supervised by a specific mentor. Applicants desiring to contribute to a specific task should get in touch with the assigned mentor. 
 Information about the assigned mentor can be found in the task’s descriptions.
 Information about Mboalab community Mentors can be found [here](/Meet%20the%20Mentors).
-See [Meet the Mentors](/Meet%20the%20Mentors) Folder.
-Feel free to reach out [Bido](https://github.com/Bido) and [Nodira](Nodira) for more guidance and details.
+See the [Meet the Mentors](/Meet%20the%20Mentors) Folder.
+Feel free to reach out [Bido](https://github.com/Bido) and [Nodira](https://github.com/nodira) for more guidance and details.
