@@ -1,6 +1,14 @@
-# DUSHIME MUDAHERA RICHARD OUTREACH CONTRIBUTION
+# Task 0
+```
+Greetings to you All
+i am DUSHIME MUDAHERA RICHARD an outreach applicants
+after going through all the project i loved this project 
+and i am looking forward to contribute 
+and learn from each other 
+Thank you
 
-## Task 0
+```
+### fixed broken links
 
 1.Improved on Documentation
 
