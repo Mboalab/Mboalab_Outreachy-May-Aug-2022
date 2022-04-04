@@ -2,6 +2,7 @@
 
 ## Objective: 
 One of the ultimate goal of the project is to come up with complete tool for diagnostic of typhoid fever integrating features for wide and easy adoption and use.
+
 [Malaria Screener](https://github.com/nlm-malaria/MalariaScreener) is an Android mobile application designed to make smartphones an affordable yet effective solution to this issue. The idea is to utilize the high-resolution camera and powerful computing power of modern smartphones to screen blood smear images automatically for parasites and infected red blood cells. Malaria Screener combines image acquisition, smear image analysis, and result visualization in its slide screening process, and is equipped with a database to give both app-users and researchers easy access to the acquired data. Malaria Screener makes the screening process faster, more consistent, and less dependent on human expertise.
 
 The objective of this task is to come up and design a step by step methodology to  develo a similar app keeping the same feature and fonctionalities but applied to typhoid fever diagnostic.
