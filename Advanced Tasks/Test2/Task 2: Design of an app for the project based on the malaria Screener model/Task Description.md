@@ -7,7 +7,7 @@ One of the ultimate goal of the project is to come up with complete tool for dia
 
 The objective of this task is to come up and design a step by step methodology to  develo a similar app keeping the same feature and fonctionalities but applied to typhoid fever diagnostic.
 
-> ## **Note:** The focus of the task is just to design a methodology with specific list of tasks and descriptions, including technical detatail and tool to be used, on the various steps involved in the development of an app folowing the malaria screener model.  
+> ## **Note:** The focus of the task is just to design a methodology with specific list of tasks and descriptions, including technical detail and tools to be used, on the various steps involved in the development of an app folowing the malaria screener model.  
 
 
 ## Tools and Skills: 
