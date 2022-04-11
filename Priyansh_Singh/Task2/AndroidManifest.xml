@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1004" android:versionName="4.0" android:installLocation="auto" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.newandromo.dev338923.app614241" platformBuildVersionCode="1004" platformBuildVersionName="{4:1082130432}">
+	<uses-sdk android:minSdkVersion="16" android:targetSdkVersion="28" />
+	<supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" />
+	<uses-feature android:name="android.hardware.touchscreen" android:required="false" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<application android:label="Priyansh App For Typoid Fever" android:icon="res/drawable-xxxhdpi-v4/ic_launcher_icon.png" android:name="com.newandromo.dev338923.app614241.AndromoApplication" android:allowBackup="true" android:hardwareAccelerated="true" android:supportsRtl="true" android:usesCleartextTraffic="true">
+		<meta-data android:name="android.webkit.WebView.EnableSafeBrowsing" android:value="true" />
+		<activity android:theme="resourceId:0x7f0e00f8" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Dashboard_000" android:screenOrientation="-1">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0000" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Custompage_1583046723_d326e706fd" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0001" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Custompage_1583047251_90031d6b62" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0002" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Custompage_1583047966_a5f44e9bce" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0003" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Custompage_1583048445_a484febd5f" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0004" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Custompage_1583048810_1936692462" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0005" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Custompage_1583050143_17b80ed7d7" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0006" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Custompage_1583051146_6d70d8e039" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0007" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Custompage_1583052681_0e4ba571a1" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0008" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Custompage_1583053787_1a10932324" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0009" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Custompage_1583054580_ff7f525ece" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e000a" android:label="Priyansh App For Typoid Fever" android:name="com.newandromo.dev338923.app614241.Email_1583055165_fe28c35a0d" android:screenOrientation="-1" android:parentActivityName="com.newandromo.dev338923.app614241.Dashboard_000">
+			<meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.newandromo.dev338923.app614241.Dashboard_000" />
+		</activity>
+		<activity android:theme="resourceId:0x7f0e0032" android:name="com.newandromo.dev338923.app614241.AndromoAboutActivity" />
+		<meta-data android:name="com.newandromo.dev338923.app614241.GlideConfiguration" android:value="GlideModule" />
+		<uses-library android:name="org.apache.http.legacy" android:required="false" />
+		<activity android:theme="@android:style/Theme" android:name="com.startapp.android.publish.ads.list3d.List3DActivity" />
+		<activity android:theme="@android:style/Theme.Translucent" android:name="com.startapp.android.publish.adsCommon.activities.OverlayActivity" android:configChanges="0x4a0" />
+		<activity android:theme="@android:style/Theme" android:name="com.startapp.android.publish.adsCommon.activities.FullScreenActivity" android:configChanges="0x4a0" />
+		<service android:name="com.startapp.android.publish.common.metaData.PeriodicMetaDataService" />
+		<service android:name="com.startapp.android.publish.common.metaData.InfoEventService" />
+		<service android:name="com.startapp.android.publish.common.metaData.PeriodicJobService" android:permission="android.permission.BIND_JOB_SERVICE" />
+		<receiver android:name="com.startapp.android.publish.common.metaData.BootCompleteListener">
+			<intent-filter>
+				<action android:name="android.intent.action.BOOT_COMPLETED" />
+			</intent-filter>
+		</receiver>
+	</application>
+</manifest>
