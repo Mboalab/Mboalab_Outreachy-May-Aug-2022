@@ -62,7 +62,7 @@ extends AppCompatActivity {
         }
         if ((textView = (TextView)this.findViewById(2131296302)) != null) {
             textView.setMovementMethod(LinkMovementMethod.getInstance());
-            textView.setText((CharSequence)Html.fromHtml((String)this.getString(2131558460, new Object[]{"<b><a href=\"https://www.andromo.com\">plada139cn</a></b>"})));
+            textView.setText((CharSequence)Html.fromHtml((String)this.getString(2131558460, new Object[]{"<b><a href=\"https://www.andromo.com\">Priyansh Singh</a></b>"})));
             textView.setVisibility(0);
         }
         if ((textView3 = (TextView)this.findViewById(2131296318)) != null) {

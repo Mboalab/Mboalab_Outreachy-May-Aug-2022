@@ -1,16 +1,4 @@
-/*
- *  
- * 
- * Could not load the following classes:
- *  android.app.Activity
- *  android.content.Context
- *  android.content.SharedPreferences
- *  android.content.SharedPreferences$Editor
- *  android.preference.PreferenceManager
- *  android.view.View
- *  java.lang.String
- *  java.lang.System
- */
+
 package com.newandromo.dev338923.app614241;
 
 import android.app.Activity;

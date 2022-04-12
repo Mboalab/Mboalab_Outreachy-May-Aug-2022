@@ -4,6 +4,12 @@
 The prevalence, power and portability of smartphones make them valuable tools for pathogen monitoring and citizen science.
 ```
 
+**Priyansh-App Typoid Fever** is an Android mobile application designed to make smartphones an affordable yet effective solution to this issue. The idea is to get users familise with typoid fever on the basis of symptoms, teaching them the symptom, cause, types, diagnostic method for typoid fever, prevention methods etc.
+
+Basically, app contains various slides containing the information of various aspects like what is typoid fever, Causes, Symptom etc. At the end app is going to teach users about typoid fever and i have also marked some future feature enhancements down in [this](https://github.com/ps-19/Mboalab_Outreachy-May-Aug-2022/tree/task/Priyansh_Singh/Task2#future-provision) section. 
+
+App is very naive in solving the issue, but we can add functionality to make even better.
+
 # Section
 
 - Introduction to Typhoid Fever

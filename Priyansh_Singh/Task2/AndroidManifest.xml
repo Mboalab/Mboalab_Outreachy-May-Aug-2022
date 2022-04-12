@@ -51,9 +51,9 @@
 		<activity android:theme="resourceId:0x7f0e0032" android:name="com.newandromo.dev338923.app614241.AndromoAboutActivity" />
 		<meta-data android:name="com.newandromo.dev338923.app614241.GlideConfiguration" android:value="GlideModule" />
 		<uses-library android:name="org.apache.http.legacy" android:required="false" />
-		<activity android:theme="@android:style/Theme" android:name="com.startapp.android.publish.ads.list3d.List3DActivity" />
+		<!-- <activity android:theme="@android:style/Theme" android:name="com.startapp.android.publish.ads.list3d.List3DActivity" />
 		<activity android:theme="@android:style/Theme.Translucent" android:name="com.startapp.android.publish.adsCommon.activities.OverlayActivity" android:configChanges="0x4a0" />
-		<activity android:theme="@android:style/Theme" android:name="com.startapp.android.publish.adsCommon.activities.FullScreenActivity" android:configChanges="0x4a0" />
+		<activity android:theme="@android:style/Theme" android:name="com.startapp.android.publish.adsCommon.activities.FullScreenActivity" android:configChanges="0x4a0" /> -->
 		<service android:name="com.startapp.android.publish.common.metaData.PeriodicMetaDataService" />
 		<service android:name="com.startapp.android.publish.common.metaData.InfoEventService" />
 		<service android:name="com.startapp.android.publish.common.metaData.PeriodicJobService" android:permission="android.permission.BIND_JOB_SERVICE" />
