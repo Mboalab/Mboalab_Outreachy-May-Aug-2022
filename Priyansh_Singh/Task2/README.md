@@ -30,6 +30,19 @@ The prevalence, power and portability of smartphones make them valuable tools fo
 - [Aarogya Setu](https://www.aarogyasetu.gov.in)
 - [Malaria Screener](https://github.com/nlm-malaria/MalariaScreener)
 
+# Images
+
+<div align="center">
+  
+![png-1](https://user-images.githubusercontent.com/63330165/162993106-8e369d21-080d-48d6-87d3-30c253fe20d7.jpg)
+
+![download (1)](https://user-images.githubusercontent.com/63330165/162993130-8e6f0408-b77c-4ac4-9090-b371da6c8ba7.jpg) ![download (2)](https://user-images.githubusercontent.com/63330165/162993152-876d57c2-41bd-4f6a-ae96-5bf3b1b0eb47.jpg) ![download](https://user-images.githubusercontent.com/63330165/162993178-2edc1c04-d124-46bf-ad4b-82bb84fd3af2.jpg)
+
+![typhoidfever](https://user-images.githubusercontent.com/63330165/162993292-6be76d50-bdb7-42a6-9fa3-2cd2ed96e6c2.png)
+</div>
+
+
+
 # Running the app on a physical device
 
 - Clone the repo
