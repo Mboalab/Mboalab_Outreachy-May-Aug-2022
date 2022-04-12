@@ -27,7 +27,7 @@ public abstract class a {
     }
 
     public int hashCode() {
-        int n2 = this.a * 31;
+        int n2 = 31 * this.a;
         int n3 = (this.b != null) ? (this.b.hashCode()) : 0;
         return n2 + n3;
     }

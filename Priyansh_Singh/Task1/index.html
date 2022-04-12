@@ -255,7 +255,8 @@
             
             form.addEventListener('submit', e => {
                 e.preventDefault()
-              fetch('https://script.google.com/macros/s/AKfycbwzGoBMHqhopKHcZrlzkndimoTfXxNEmbiHlNxsnpmuHd7yZBc7ftTKS2EKwrwpIM8/exec', { method: 'POST', body: new FormData(form)})
+                // Changed the below script for security reasons.
+              fetch('https://script.google.com/macros/s/AKfycbwzGoBMHqhopKHcZrlzkndimoTfXxNEmbiHlNxsnpmuHd7yZBc7ftTKS2EKwrwpIM8/exec', { method: 'POST', body: new FormData(form)})  
                 .then(console.log("successfull!"))
                 .catch(error => console.error('Error!', error.message))
             })
