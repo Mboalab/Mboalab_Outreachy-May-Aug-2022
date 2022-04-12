@@ -8,12 +8,16 @@ The prevalence, power and portability of smartphones make them valuable tools fo
 # Section
 
 - Introduction to Typhoid Fever
+- Clinical representation
 - Causes
 - Symptom
 - Types
 - Diagnosis
+- Etiology
 - Treatment
 - Prevention
+- Brief Description of  observational Epidemiology
+- Highlights over differential-diagnostic physiopathology
 
 # Future Provision
 
