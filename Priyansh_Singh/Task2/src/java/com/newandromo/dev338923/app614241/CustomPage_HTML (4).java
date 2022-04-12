@@ -91,12 +91,12 @@ import android.webkit.WebViewClient;
 import android.widget.LinearLayout;
 import android.widget.Toast;
 import com.newandromo.dev338923.app614241.AndromoActivity;
-import com.newandromo.dev338923.app614241.Custompage_1583048445_a484febd5f;
+import com.newandromo.dev338923.app614241.index_4;
 import com.newandromo.dev338923.app614241.bb;
 import com.newandromo.dev338923.app614241.e;
 import com.newandromo.dev338923.app614241.f;
 
-public class Custompage_1583048445_a484febd5f
+public class index_4
 extends AndromoActivity {
     private static String[] r = new String[]{"android.permission.ACCESS_FINE_LOCATION", "android.permission.ACCESS_COARSE_LOCATION"};
     private static AndromoActivity.b s = new Object(){
@@ -162,8 +162,8 @@ extends AndromoActivity {
         throw new IllegalStateException("Decompilation failed");
     }
 
-    static /* synthetic */ boolean f(Custompage_1583048445_a484febd5f custompage_1583048445_a484febd5f) {
-        return custompage_1583048445_a484febd5f.l;
+    static /* synthetic */ boolean f(index_4 index_4) {
+        return index_4.l;
     }
 
     protected final void a() {
@@ -221,10 +221,10 @@ extends AndromoActivity {
         this.setToolbarTitle(2131558406);
         CookieSyncManager.createInstance((Context)this);
         this.h = (WebView)this.findViewById(2131296541);
-        this.h.setWebChromeClient(new WebChromeClient((Custompage_1583048445_a484febd5f)this, 0){
-            final /* synthetic */ Custompage_1583048445_a484febd5f a;
+        this.h.setWebChromeClient(new WebChromeClient((index_4)this, 0){
+            final /* synthetic */ index_4 a;
             {
-                this.a = custompage_1583048445_a484febd5f;
+                this.a = index_4;
             }
 
             public final void onExceededDatabaseQuota(String string, String string2, long l2, long l3, long l4, WebStorage.QuotaUpdater quotaUpdater) {
@@ -276,11 +276,11 @@ extends AndromoActivity {
         if (this.n) {
             this.h.getSettings().setGeolocationEnabled(true);
         }
-        this.h.setWebViewClient(new WebViewClient((Custompage_1583048445_a484febd5f)this, 0){
+        this.h.setWebViewClient(new WebViewClient((index_4)this, 0){
             String a;
-            final /* synthetic */ Custompage_1583048445_a484febd5f b;
+            final /* synthetic */ index_4 b;
             {
-                this.b = custompage_1583048445_a484febd5f;
+                this.b = index_4;
                 this.a = "";
             }
 
@@ -372,9 +372,9 @@ extends AndromoActivity {
 
             public final void onPageFinished(WebView webView, String string) {
                 this.b.m = false;
-                Custompage_1583048445_a484febd5f custompage_1583048445_a484febd5f = this.b;
-                if (custompage_1583048445_a484febd5f.i != null) {
-                    g.a((MenuItem)custompage_1583048445_a484febd5f.i);
+                index_4 index_4 = this.b;
+                if (index_4.i != null) {
+                    g.a((MenuItem)index_4.i);
                 }
                 CookieSyncManager.getInstance().sync();
                 if (string.equals((Object)"about:blank")) {
@@ -448,10 +448,10 @@ extends AndromoActivity {
         this.h.getSettings().setSupportZoom(this.o);
         this.h.getSettings().setLoadWithOverviewMode(this.o);
         this.h.getSettings().setUseWideViewPort(this.o);
-        this.h.setDownloadListener(new DownloadListener((Custompage_1583048445_a484febd5f)this){
-            final /* synthetic */ Custompage_1583048445_a484febd5f a;
+        this.h.setDownloadListener(new DownloadListener((index_4)this){
+            final /* synthetic */ index_4 a;
             {
-                this.a = custompage_1583048445_a484febd5f;
+                this.a = index_4;
             }
 
             public final void onDownloadStart(String string, String string2, String string3, String string4, long l2) {
@@ -473,7 +473,7 @@ extends AndromoActivity {
             string = intent.getStringExtra("com.newandromo.dev338923.app614241.NAVIGATION_PAGE");
         }
         if (string != null && !string.equals((Object)"")) {
-            String string2 = "file:///android_asset/Custompage_1583048445_a484febd5f".concat(String.valueOf((Object)string));
+            String string2 = "file:///android_asset/index_4".concat(String.valueOf((Object)string));
             this.h.loadUrl(string2);
         } else if (bundle != null) {
             this.h.restoreState(bundle);
