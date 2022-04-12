@@ -20,10 +20,10 @@ The prevalence, power and portability of smartphones make them valuable tools fo
 
 # Future Provision
 
-- [] Add a survey form.
-- [] Add a primary test to check the percentage possibility of disease like in `Aarogya Setu`.
-- [] Add a live data visualisation of number of cases in the world.
-- [] Add nearby hospital info of government verified and suitable facility.
+- [ ] Add a survey form.
+- [ ] Add a primary test to check the percentage possibility of disease like in `Aarogya Setu`.
+- [ ] Add a live data visualisation of number of cases in the world.
+- [ ] Add nearby hospital info of government verified and suitable facility.
 
 # Idea
 
