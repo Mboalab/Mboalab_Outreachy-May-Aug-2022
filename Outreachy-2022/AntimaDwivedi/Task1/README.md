@@ -15,4 +15,4 @@
 <b>•</b><b>Know your Result tab</b> also present in the web page which is responsible to show  the degree of severity  along the classes- Very Low, Low, Moderate, High and Very High.(This is just for visualization ,no algorithm is deployed in the tool)<br><br><br>
 ![img5](https://user-images.githubusercontent.com/56269029/163145929-2aa85ee2-8552-4711-ac13-d59ebc8b3338.png)
 <br><br><br>
-<b>•</b>https://antimadwivedi.github.io/Outreachy-2022-task1/
+<b>•</b>Kindly review the data collection tool and give your feedback.https://antimadwivedi.github.io/Outreachy-2022-task1/
