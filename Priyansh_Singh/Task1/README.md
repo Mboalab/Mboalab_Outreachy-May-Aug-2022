@@ -47,12 +47,14 @@ As questions in the survey should undergo careful scrutiny and standardization, 
 
 
 
-![image](https://user-images.githubusercontent.com/63330165/162799946-c58eaecc-fb8f-4e34-8dec-ffbad6231929.png)
-![image](https://user-images.githubusercontent.com/63330165/162799963-0e05d068-8cb0-4529-9fa3-5ddf95564b43.png)
-![image](https://user-images.githubusercontent.com/63330165/162799974-194b3b39-2e41-4d65-89d5-4550b17d5971.png)
-![image](https://user-images.githubusercontent.com/63330165/162799988-25989fad-6bcf-48d2-9ed7-7240a4159abe.png)
-![image](https://user-images.githubusercontent.com/63330165/162800029-1e52be21-e367-4b41-b677-e00b445ad1f4.png)
-![image](https://user-images.githubusercontent.com/63330165/162800031-bf4b7b5b-a77f-481c-9470-63885b8fc752.png)
+![image](https://user-images.githubusercontent.com/63330165/163196366-bd607c43-a848-46a3-8ea9-bc6962e71e58.png)
+![image](https://user-images.githubusercontent.com/63330165/163196423-b0409a8e-0b10-43c8-86ab-3da1ce4e4b6c.png)
+![image](https://user-images.githubusercontent.com/63330165/163196449-38d8cd82-e18d-426b-aaa0-bbdb696348dc.png)
+![image](https://user-images.githubusercontent.com/63330165/163196502-22fe69c5-2f90-4adc-b3e4-ef04040d014b.png)
+![image](https://user-images.githubusercontent.com/63330165/163196833-f41f0bc5-55f4-4f95-ba55-78198b8a136c.png)
+![image](https://user-images.githubusercontent.com/63330165/163196861-1c8c3ef8-18f4-42ec-9040-f6e067d4222a.png)
+![image](https://user-images.githubusercontent.com/63330165/163196980-a39394a0-2962-468d-9a50-b571db372acc.png)
+
 
 ![image](https://user-images.githubusercontent.com/63330165/162800075-79c5d690-392f-44c8-8a1d-a717064dd56b.png)
 ![image](https://user-images.githubusercontent.com/63330165/162800093-ca1ff61c-8d37-4562-8b46-71662741a989.png)
