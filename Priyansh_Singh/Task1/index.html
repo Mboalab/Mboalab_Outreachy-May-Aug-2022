@@ -16,7 +16,7 @@
                 Kindly fill the form to help us to collect the data for COVID-19.
             </p>
         </header>
-        <form method='POST' id="google-sheet">
+        <form method="POST" name="google-sheet">
             <div class="form-group">
                 <label for="name">Name</label>
                 <input type="text" name="name" id="name" class="formControl" placeholder="Enter your name" required>
@@ -31,8 +31,7 @@
             </div>
             <div class="form-group">
                 <label for="address">Address <span class="clue">(optional)</span></label>
-                <input type="text" name="address-1" id="address-1" class="formControl" placeholder="Enter your address line 1"><br/>
-                <input type="text" name="address-2" id="address-2" class="formControl" placeholder="Enter your address line 2">
+                <input type="text" name="address-1" id="address-1" class="formControl" placeholder="Enter your address line 1">
             </div>
 
             <div class="form-group">
@@ -248,21 +247,24 @@
             </div>
             <div class="form-group">
                 <button type="submit" id="submit" class="btn">Submit</button>
-            </div>
+            </div> 
         </form>
-        <script>
-            const form = document.forms['google-sheet']
-            
-            form.addEventListener('submit', e => {
-                e.preventDefault()
-                // Changed the below script for security reasons.
-              fetch('https://script.google.com/macros/s/AKfycbwzGoBMHqhopKHcZrlzkndimoTfXxNEmbiHlNxsnpmuHd7yZBc7ftTKS2EKwrwpIM8/exec', { method: 'POST', body: new FormData(form)})  
-                .then(console.log("successfull!"))
-                .catch(error => console.error('Error!', error.message))
-            })
-        </script>
     </div>
-</body>
+</body> 
+<!-- https://script.google.com/macros/s/AKfycbwzGoBMHqhopKHcZrlzkndimoTfXxNEmbiHlNxsnpmuHd7yZBc7ftTKS2EKwrwpIM8/exec -->
+    <script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbwzGoBMHqhopKHcZrlzkndimoTfXxNEmbiHlNxsnpmuHd7yZBc7ftTKS2EKwrwpIM8/exec'
+        const form = document.forms['google-sheet']
+        form.addEventListener('submit', e => {
+        e.preventDefault();
+        alert("Form Submitted!");
+            fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("Thanks for Contacting us..! We Will Contact You Soon..."))
+                .catch(error => console.error('Error!', error.message))
+            
+                window.location.replace("/thankyou.html");
+        })
+    </script>
 
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
