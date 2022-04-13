@@ -12,5 +12,5 @@
 <b>•</b>After the selection of all the symptoms, submission is made to the designed system by clicking submit button and this click saves all the marked symptoms and basic information as well in the google sheet.<br><br><br>
 ![img4](https://user-images.githubusercontent.com/56269029/163145813-5e3ac255-5b1f-4573-a1e7-166594ac4717.png)
 <br><br><br>
-<b>•</b><b>Know your Result tab</b> also present in the web page which is responsible to show  the degree of severity  along the classes- Very Low, Low, Moderate, High and Very High.<br><br><br>
+<b>•</b><b>Know your Result tab</b> also present in the web page which is responsible to show  the degree of severity  along the classes- Very Low, Low, Moderate, High and Very High.(This is just for visualization ,no algorithm is deployed in the tool)<br><br><br>
 ![img5](https://user-images.githubusercontent.com/56269029/163145929-2aa85ee2-8552-4711-ac13-d59ebc8b3338.png)
