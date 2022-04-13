@@ -9,7 +9,7 @@
  <b>•</b>There are total  eighteen symptoms which I have noted down for collection tool(references are taken from the previously mentioned  research paper)  and each symptom has three values(Low, High and Default), in which a patient must select one according to the patient’s feelings. Default exists for symptom not perceived by the patients. <br><br><br>
 ![img3](https://user-images.githubusercontent.com/56269029/163143572-f28c0d65-da2a-4065-b8e9-442a579032e1.png)
 <br><br><br>
-<b>•</b>After the selection of all the symptoms, submission is made to the designed system by clicking submit button and this click saves all the marked symptoms and basic information as well in the google sheet.<br><br><br>
+<b>•</b>After the selection of all the symptoms, submission is made to the designed system by clicking submit button and this click saves all the marked symptoms and basic information as well in the [google-sheet](https://docs.google.com/spreadsheets/d/1C6P23lb1OwRwx5rYFlNkh6rH2uex4N0nsBEQhYdjctI/edit?usp=sharing).<br><br><br>
 ![img4](https://user-images.githubusercontent.com/56269029/163145813-5e3ac255-5b1f-4573-a1e7-166594ac4717.png)
 <br><br><br>
 <b>•</b><b>Know your Result tab</b> also present in the web page which is responsible to show  the degree of severity  along the classes- Very Low, Low, Moderate, High and Very High.(This is just for visualization ,no algorithm is deployed in the tool)<br><br><br>
