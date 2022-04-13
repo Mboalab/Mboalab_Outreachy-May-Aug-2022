@@ -8,6 +8,20 @@
 
 # Other Skillsets
 - Python
-- SQL
+- Android Studios
+- Databases
 - Machine Learning
 - Data visualization
+- Kubernetes
+- Docker
+- Full Stack Development
+
+# Development Language
+- Javascript
+- Django
+- Flask
+
+# CP Languages
+- C
+- C++
+- Python
