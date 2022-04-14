@@ -19,22 +19,23 @@ _**Both individual or collective contributions to a particular task are welcomed
 ## Sending Contributions
 
 1. Fork the project to your GitHub account and clone it into your development environment
-2. Make sure to move to an **outreachy-2022** branch before making changes in your working directory
-3. All contributions have to be listed in **Outreachy-2022** folder.
+2. Make sure to move to an **Mboalab_Outreachy-May-Aug-2022** branch before making changes in your working directory
+3. All contributions have to be listed in **Mboalab_Outreachy-May-Aug-2022** folder.
 
-    3.1 Create a folder with a naming convention **[Applicant Name]** (e.g **John Smith**) in **Outreachy-2022/Applicants Contribution**
+    3.1 Create a folder with a naming convention **[Applicant Name]** (e.g **John Smith**) in **May-August-Contributions**
 
     3.2 List all your contributions in your **[Applicant Name]** folder in respective files *Task0.md*, *Task1.md*, and etc.
 
     The end result should resemble this:
 
-        - Outreachy-2022
-            - [Applicant Name]
-                - Task0.md
-                  Task1.md
-                  ...
+        - Mboalab_Outreachy-May-Aug-2022
+           - May-August-Contributions
+             - [Applicant Name]
+                 - Task0.md
+                 - Task1.md
+                 - ...
 
-4. Create a Pull Request and send updates *to* the **outreachy-2022** branch.
+4. Create a Pull Request and send updates *to* the **Mboalab_Outreachy-May-Aug-2022** branch.
 
 **IMPORTANT**
 
