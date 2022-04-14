@@ -34,24 +34,48 @@ Start completing some tasks (Contributors should limit themselves to achievable 
 **1. Collection of Data**<br>
     The app asks the user various questions regarding user's symptoms and the level of severity of those symptoms.
     <br>
-    The following is the list of few symptoms (conditional attributes) that our app will ask the user : 
-    - Fever  
-    - Abdominal Pain  
-    - Cough
-    - Diarrhoea
-    - Constipation
-    - Muscle weakness
-    - Headache
-    - Skin rash
-    - Weightless
-    - Stomach Distension
-    - Blood occult in stool
+    The following is the list of few symptoms (conditional attributes) that our app will ask the user 
+    <br>
     
-    If the user has any of these symptoms there would be a prompt that asks the user about severity of the symptom i.e Low or High. On the basis of these symptoms , typhoid would be diagonised.
+- Fever  
+- Abdominal Pain  
+- Cough
+- Diarrhoea
+- Constipation
+- Muscle weakness
+- Headache
+- Skin rash
+- Weightless
+- Stomach Distension
+- Blood occult in stool
     
-    Another precise way for diagnosing typhoid is by collecting widal tests results from the user and based on those results(agglutination) typhoid would be diagnosed.
     
-**2. Data preprocessing** <br>
+    If the user has any of these symptoms there would be a prompt that asks the user about severity of the symptom i.e Low or High. On the basis of these symptoms ,       typhoid would be diagonised. Another precise way for diagnosing typhoid is by collecting widal tests results from the user and based on those results  (agglutination) typhoid would results(agglutination) typhoid would be diagnosed.
+    
+   <br>
+   
+**2. Data preprocessing** 
+
+Data collected from the user would be cleaned first ( dealing with missing data). 
+To make the programming easier and the program more efficient, these values would be converted to integer since it is easier to work around with numbers.
+For conditional attributes we shall assign 0 for default 1 for low and 2 for high.
+The output for training data would be the level of typhoid , we would assign 1 for very low , 2 for low , 3 for moderate , 4 for high and 5 for very high.
+
+<br>
+
+**3. Classification of Data**
+
+The data has to be classified into 5 classes depending upon the severity of the typhoid fever.
+
+**4. Dividing the dataset**
+We would then divide the dataset into training and test data for the training the machine learning model.
+
+**5. Machine Learning Model**
+
+
+
+
+
 
     
     
