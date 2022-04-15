@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.widget.ButtonBarLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="0x50" android:orientation="0" android:id="false" android:paddingLeft="12dp" android:paddingTop="4dp" android:paddingRight="12dp" android:paddingBottom="4dp" android:layout_width="-1" android:layout_height="-2" android:layoutDirection="3">
-	<Button android:id="resourceId:0x102001b" android:layout_width="-2" android:layout_height="-2" android:layout_weight="{4:1065353216}" style="{2:2130968667}" />
-	<Button android:id="resourceId:0x102001a" android:layout_width="-2" android:layout_height="-2" android:layout_weight="{4:1065353216}" style="{2:2130968666}" />
-	<Button android:id="resourceId:0x1020019" android:layout_width="-2" android:layout_height="-2" android:layout_weight="{4:1065353216}" style="{2:2130968668}" />
-</android.support.v7.widget.ButtonBarLayout>

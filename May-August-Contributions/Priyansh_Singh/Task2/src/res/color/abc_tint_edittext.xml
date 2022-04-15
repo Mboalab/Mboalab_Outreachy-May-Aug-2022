@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-	<item android:state_enabled="false" android:color="{2:2130968704}" app:alpha="{2:16842803}" />
-	<item android:state_focused="false" android:state_pressed="false" android:color="{2:2130968704}" />
-	<item android:color="{2:2130968702}" />
-</selector>

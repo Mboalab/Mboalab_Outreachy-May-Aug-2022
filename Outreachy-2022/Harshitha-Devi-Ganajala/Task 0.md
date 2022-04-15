@@ -1,1 +1,0 @@
-I am Harshitha Devi Ganajala , a sophomore at the National Institute of Technology , Rourkela. I am an Outreachy 2022 applicant and looking forward to contributing to this project. 
