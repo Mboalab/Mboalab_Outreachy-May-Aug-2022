@@ -6,7 +6,7 @@ Mboalab Tasks progress
 
 - [x] Task 0: Fixed minor documentation Errors 
 - [x] Task 1: Designed a tool using WordPress and Google forms to collect data regarding medical history
-- [ ] Task 2: Pending
+- [#] Task 2: Designed a methodology for an Android app for Typhoid Screening
 
 Further Improvements for Task 2
 
