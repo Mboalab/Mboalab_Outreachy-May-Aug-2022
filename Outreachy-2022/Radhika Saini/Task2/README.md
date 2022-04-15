@@ -7,4 +7,4 @@ I create a technical document with detailled list of tasks, description, tools n
 
 Live Document Task 2 Link- [Document](https://docs.google.com/document/d/1CATZbS0E3Lg9MN-v7HRaaW9xT5DyZriD/edit?usp=sharing&ouid=101139208206107038002&rtpof=true&sd=true)
 
-Design A similar App- [Malaria Tracker](https://www.figma.com/file/xNxxnIs8NWpwuUi3s4YJV3/Malaria-Tracker-App?node-id=0%3A1)
+Design A similar App- [Malaria Tracker](https://www.figma.com/file/xNxxnIs8NWpwuUi3s4YJV3/Malaria-Tracker-App?node-id=0%3A1) by Figma.
