@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:fitsSystemWindows="true" android:layout_width="-1" android:layout_height="-1">
+	<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:theme="{2:2130969103}" android:id="false" android:background="{2:2130968706}" android:layout_width="-1" android:layout_height="{2:2130968579}" android:transitionName="toolbar" app:layout_scrollFlags="{2:2130969101}" app:popupTheme="{2:2130969100}" />
+	<FrameLayout android:id="false" android:layout_width="-1" android:layout_height="-1" app:layout_behavior="android.support.design.widget.AppBarLayout$ScrollingViewBehavior" />
+</LinearLayout>
