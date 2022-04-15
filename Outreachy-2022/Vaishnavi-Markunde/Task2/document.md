@@ -1,15 +1,3 @@
-The objective of this task is to come up and design a step by step methodology to develo a similar app keeping the same feature and fonctionalities but applied to typhoid fever diagnostic.
-
-Note: The focus of the task is just to design a methodology with specific list of tasks and descriptions, including technical detail and tools to be used, on the various steps involved in the development of an app folowing the malaria screener model.
-Tools and Skills:
-This task is addressed to applicants with interest in the area of data science, programming and coding, Technical documentation, all interested applicant willing to contribute to the project, Partcipants having skills in web and front end developement and other deemed relevant competencies.
-
-Main tasks to complete:
-Check in detail Malaria Screener project
-Create a technical document with detailled list of tasks, description, tools needed to develop a similar app
-Start completing some tasks (Contributors should limit themselves to achievable tasks within contribution period timeline)
-
-
 # Typhoid Fever 
 <br>
 
@@ -50,8 +38,7 @@ Start completing some tasks (Contributors should limit themselves to achievable 
 - Blood occult in stool
     
     
-    If the user has any of these symptoms there would be a prompt that asks the user about severity of the symptom i.e Low or High. On the basis of these symptoms ,       typhoid would be diagonised. Another precise way for diagnosing typhoid is by collecting widal tests results from the user and based on those results  (agglutination) typhoid would results(agglutination) typhoid would be diagnosed.
-    
+    If the user has any of these symptoms there would be a prompt that asks the user about severity of the symptom i.e Low or High. On the basis of these symptoms ,       typhoid would be diagonised. Apart from these questionarie user would be asked to upload their widal test (if have) reports which would help us provide more precise way for diagnosing typhoid .
    <br>
    
 **2. Data preprocessing** 
@@ -61,6 +48,7 @@ To make the programming easier and the program more efficient, these values woul
 For conditional attributes we shall assign 0 for default 1 for low and 2 for high.
 The output for training data would be the level of typhoid , we would assign 1 for very low , 2 for low , 3 for moderate , 4 for high and 5 for very high.
 
+The data collected from widal tests will contain images of agglutination , this images would be pre-processed accordinlgy for the required model.
 <br>
 
 **3. Classification of Data**
@@ -68,13 +56,29 @@ The output for training data would be the level of typhoid , we would assign 1 f
 The data has to be classified into 5 classes depending upon the severity of the typhoid fever.
 
 **4. Dividing the dataset**
+
 We would then divide the dataset into training and test data for the training the machine learning model.
 
 **5. Machine Learning Model**
 
+The model would try to learn from previous experience , based on the previous data it will predict the output for newly entered user data.
+Here we can use convulational neural networks for predicting results from images of test reports. 
 
 
+### Tools :
 
+- Web development
+- App development
+- Data collection tool
+- Data analysis
+- Machine learning
+- Deep learning
+
+
+<br>
+Link to UI design of the app : https://www.figma.com/file/bLXL66RlT2SrjLsM8fOHyA/Mboalab-Task-2?node-id=0%3A1
+
+(Still working on it and can be updated according to project needs and requirements)
 
 
     
