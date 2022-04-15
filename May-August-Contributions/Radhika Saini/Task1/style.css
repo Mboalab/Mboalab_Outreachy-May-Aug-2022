@@ -1,0 +1,241 @@
+body {
+    margin: 40px 0 40px 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    /*background-color: rgba(18, 64, 183, 0.796);*/
+    background-image: url("https://ak.picdn.net/shutterstock/videos/31997473/thumb/1.jpg");
+    
+    /*background-color: #e35267;*/
+    background-size: 100%;
+    background-repeat: repeat-y;
+    box-shadow: none;
+    font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+main {
+    background-color: white;
+    padding: 10px 40px 40px 40px;
+    display: block;
+    text-align: left;
+    max-width: 700px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.main2{
+    display: block;
+    height:80vh;
+    background-image: url("https://i.pinimg.com/originals/9d/d5/4c/9dd54cab3b383726be62b529406f8328.gif");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 90px;
+}
+
+
+
+header {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    color: #191516;
+    font-weight: bold;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+}
+
+
+#name, #email, #number, #dropdown, #date, #phone-no {
+    outline: none;
+    width: 100%;
+    padding: 7px;
+    font-size: 16px;
+    border: 1px solid #dee2e6;
+    border-radius: 3px;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+#dropdown, option {
+    outline: none;
+}
+
+select {
+    padding: 7px;
+}
+
+textarea {
+    display: block;
+}
+
+.form-group {
+    padding: 8px 0;
+    margin-bottom: 2px;
+}
+
+.form-group>label {
+    margin-bottom: 8px;
+    color: #191516;
+    display: block;
+    font-weight: 500;
+}
+
+[type="checkbox"]+label>span, [type="radio"]+label {
+    font-size: 16px;
+}
+
+[type="checkbox"], [type="radio"] {
+    margin: 0 8px 0 0;
+    box-sizing: border-box;
+    min-width: 18px;
+    min-height: 18px;
+}
+
+/*hide the original checkbox and radio button*/
+
+[type="checkbox"] , [type="radio"] {
+    opacity: 0;
+    pointer-events: none;
+}
+
+
+.radio-group, .checkbox-group {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+[type="radio"]+label {
+    margin: 0 5px 0 0;
+    font-size: 16px;
+    position: relative;
+    cursor: pointer;
+}
+
+[type="checkbox"]+label {
+    margin: 0 5px 0 0;
+    font-size: 16px;
+    position: relative;
+    cursor: pointer;
+}
+
+
+
+textarea {
+    width: 100%;
+    box-sizing: border-box;
+    height: 200px;
+    resize: none;
+    padding: 4px;
+    font-size: 16px;
+    border: 1px solid #dee2e6;
+}
+
+button {
+    width: 100%;
+    display: block;
+    height: 40px;
+    background-color: #191516;
+    border: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    box-sizing: border-box;
+}
+
+#description {
+    text-align: center;
+    font-style: italic;
+    margin-top: -10px;
+}
+
+/* custom circle for radio button*/
+[type="radio"]+label::before {
+    content: '';
+    position: absolute;
+    border-radius: 50%;
+    background-color: #eee;
+    left: -27px;
+    top: -1px;
+    width: 20px;
+    height: 20px;
+    transition: all 0.4s;
+}
+
+/* fill circle with inset shadow when it is selected*/
+[type="radio"]:checked+label::before {
+    box-shadow: inset 0 0 0 6px #191516;
+}
+
+
+@media (max-width: 540px) {
+ main {
+        max-width: 380px;
+    }
+}
+@media (max-width: 460px) {
+    main {
+        max-width: 280px;
+    }
+    h1 {
+        font-size: 32px;
+    }
+    #description {
+        font-size: 15px;
+    }
+    form {
+        font-size: 18px;
+    }
+    #name, #email, #number, #dropdown, textarea {
+        font-size: 15px;
+    }
+    [type="radio"]+label, [type="checkbox"]+label>span {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 375px) {
+ main {
+        max-width: 260px;
+        padding: 10px 30px 30px 40px;
+    }
+    h1 {
+        font-size: 28px;
+    }
+    #description {
+        font-size: 12px;
+    }
+    form {
+        font-size: 15px;
+    }
+    #name, #email, #number, #dropdown, textarea {
+        font-size: 12px;
+    }
+    [type="radio"]+label, [type="checkbox"]+label>span {
+        font-size: 12px;
+    }
+    button {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 320px) {
+ main {
+        max-width: 220px;
+    }
+}
+
+@media (max-width: 280px) {
+ main {
+        max-width: 180px;
+    }
+}
+
+

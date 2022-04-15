@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:tint="{2:2130968704}" android:height="24dp" android:width="24dp" android:autoMirrored="true" android:viewportWidth="{4:1103101952}" android:viewportHeight="{4:1103101952}">
+	<group android:name="arrow" android:pivotX="{4:1094713344}" android:pivotY="{4:1094713344}" android:rotation="{4:1119092736}">
+		<path android:fillColor="resourceId:0x106000c" android:pathData="M7,14 L12,9 L17,14 L7,14 Z" />
+		<path android:pathData="M0,0 L24,0 L24,24 L0,24 L0,0 Z" />
+	</group>
+</vector>
