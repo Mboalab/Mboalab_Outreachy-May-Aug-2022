@@ -10,9 +10,9 @@ This project is awesome because we need to use every tool available to defeat ma
 - Python [Django]
 - PHP
 - Golang
-- Javascript [React, NextJS]
+- JavaScript [NodeJS]
 
 # Frontend Tools
 - HTML
 - CSS
-- JavaScript
+- Javascript [React, NextJS]
