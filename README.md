@@ -1,8 +1,7 @@
 # Mboalab | Challenge based contribution
 
 ## General information about the Project:
-
-In line with Outreachy’s guideline, the focus of our project is to prioritise the learning process and applicants self-development over skill acquisition. 
+In line with Outreachy’s guideline, the focus of our project is to prioritise the learning process and applicant's self-development over skill acquisition. 
 Both applicants with previous experience in open-source contributions and complete beginners are welcome to participate and contribute. 
 
 >**_Our main objective is to provide applicants with notions on open-source contributions and spirit, as well as with basics and advanced skills needed to complete the project;_**
