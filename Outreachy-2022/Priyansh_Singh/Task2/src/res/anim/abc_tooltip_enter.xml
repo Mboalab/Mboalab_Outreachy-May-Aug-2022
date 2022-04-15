@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alpha xmlns:android="http://schemas.android.com/apk/res/android" android:interpolator="resourceId:0x10c0001" android:duration="150" android:fromAlpha="{4:0}" android:toAlpha="{4:1065353216}" />

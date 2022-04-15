@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.internal.NavigationMenuView xmlns:android="http://schemas.android.com/apk/res/android" android:id="false" android:paddingBottom="8dp" android:scrollbars="0x200" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-1" />
