@@ -1,0 +1,3 @@
+Hi everyone! My name is Christian Tioye, I am a computer science student looking to improve my web programming skills and contribute to meaningful projects. 
+This project will be my first contribution to open source and I am glad to be here as part of the Outreachy initiative. I thank the [mentors](https://github.com/PetraAG/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet%20the%20Mentors) in advance for all the handholding I will need as part of the journey! 
+This project is awesome because it's a chance to defeat malaria and the project's success is great for Africa. Let's do this!
