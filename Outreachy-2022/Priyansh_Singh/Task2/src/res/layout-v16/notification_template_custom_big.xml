@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="false" android:layout_width="-1" android:layout_height="-2">
+	<ImageView android:id="false" android:layout_width="64dp" android:layout_height="64dp" android:scaleType="5" />
+	<LinearLayout android:layout_gravity="0x30" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+		<LinearLayout android:orientation="0" android:id="false" android:paddingTop="10dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="64dp" android:minHeight="64dp">
+			<FrameLayout android:id="false" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:layout_marginBottom="8dp" android:layout_weight="{4:1065353216}" />
+			<FrameLayout android:id="false" android:paddingTop="4dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="8dp">
+				<ViewStub android:layout_gravity="0x800035" android:id="false" android:visibility="2" android:layout="res/layout/notification_template_part_time.xml" android:layout_width="-2" android:layout_height="-2" />
+				<ViewStub android:layout_gravity="0x800035" android:id="false" android:visibility="2" android:layout="res/layout/notification_template_part_chronometer.xml" android:layout_width="-2" android:layout_height="-2" />
+				<LinearLayout android:layout_gravity="0x800055" android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="20dp">
+					<TextView android:textAppearance="resourceId:0x7f0e0174" android:id="false" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+					<ImageView android:layout_gravity="0x11" android:id="false" android:visibility="2" android:layout_width="16dp" android:layout_height="16dp" android:layout_marginLeft="8dp" android:scaleType="7" android:alpha="{4:1058642330}" />
+				</LinearLayout>
+			</FrameLayout>
+		</LinearLayout>
+		<ImageView android:id="false" android:background="{2:16843564}" android:visibility="2" android:layout_width="-1" android:layout_height="1px" android:layout_marginLeft="64dp" />
+		<LinearLayout android:orientation="0" android:id="false" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="64dp" android:divider="{2:16843284}" android:showDividers="0x2" android:dividerPadding="12dp" />
+	</LinearLayout>
+</FrameLayout>
