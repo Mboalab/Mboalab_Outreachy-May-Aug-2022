@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.AppBarLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="false" android:fitsSystemWindows="false" android:layout_width="-1" android:layout_height="-2" android:transitionName="app_bar_layout">
+	<android.support.design.widget.CollapsingToolbarLayout android:id="false" android:fitsSystemWindows="false" android:layout_width="-1" android:layout_height="{2:2130968579}" android:minHeight="{2:2130968579}" android:transitionName="collapsing_toolbar" app:contentScrim="{2:2130968695}" app:expandedTitleMarginEnd="64dp" app:expandedTitleMarginStart="48dp" app:layout_scrollFlags="{2:2130968697}" app:titleEnabled="false">
+		<ImageView android:id="false" android:fitsSystemWindows="false" android:layout_width="-1" android:layout_height="-1" android:scaleType="6" android:transitionName="activity_image" app:layout_scrollFlags="0x1" />
+		<android.support.v7.widget.Toolbar android:theme="{2:2130969103}" android:id="false" android:background="{2:2130969097}" android:layout_width="-1" android:layout_height="{2:2130968579}" android:transitionName="toolbar" app:layout_collapseMode="1" app:popupTheme="{2:2130969100}" />
+	</android.support.design.widget.CollapsingToolbarLayout>
+</android.support.design.widget.AppBarLayout>
