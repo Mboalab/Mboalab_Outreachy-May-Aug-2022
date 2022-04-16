@@ -14,8 +14,6 @@ Check the Contributions Guidelines and the list of details via [Technical Docume
 ## Mentor attribution
 Each project’s Starter Task is supervised by a specific mentor. Applicants desiring to contribute to a specific task should get in touch with the assigned mentor. 
 Information about the assigned mentor can be found in the task’s descriptions.
-=======
-Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet%20the%20Mentors).
-See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet%20the%20Mentors)
+
 Feel free to reach out `@Bido` and `@Nodira` for more guidance and details.
 

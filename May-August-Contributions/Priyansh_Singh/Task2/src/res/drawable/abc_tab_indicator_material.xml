@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_selected="true" android:drawable="res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png" />
+	<item android:drawable="resourceId:0x106000d" />
+</selector>
