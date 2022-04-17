@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
-	<android.support.v7.preference.PreferenceCategory android:title="Usage Data" android:key="ANALYTICS_SETTINGS">
-		<android.support.v7.preference.CheckBoxPreference android:title="Allow this app to collect anonymous usage data." android:key="enable_analytics" android:defaultValue="true" android:summaryOn="On (anonymous usage data may be sent)" android:summaryOff="Off (not sending anything)" />
-	</android.support.v7.preference.PreferenceCategory>
-</android.support.v7.preference.PreferenceScreen>
