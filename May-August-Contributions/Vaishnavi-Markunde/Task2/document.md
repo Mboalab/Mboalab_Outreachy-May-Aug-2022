@@ -81,7 +81,7 @@ Link to UI design of the app : [Figma](https://www.figma.com/file/bLXL66RlT2SrjL
 
 Link to technical documentation : [Doc](https://docs.google.com/document/d/1aJX9FH0ofHTcZoKshxSxmnnVIVBxyVw86gZKrZOWtd8/edit?usp=sharing)
 
-(Still working on it and can be updated according to project needs and requirements)
+
 
 
     
