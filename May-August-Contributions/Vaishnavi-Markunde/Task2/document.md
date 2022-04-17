@@ -76,7 +76,10 @@ Here we can use convulational neural networks for predicting results from images
 
 
 <br>
-Link to UI design of the app : https://www.figma.com/file/bLXL66RlT2SrjLsM8fOHyA/Mboalab-Task-2?node-id=0%3A1
+
+Link to UI design of the app : [Figma](https://www.figma.com/file/bLXL66RlT2SrjLsM8fOHyA/Mboalab-Task-2?node-id=0%3A1)
+
+Link to technical documentation : [Doc](https://docs.google.com/document/d/1aJX9FH0ofHTcZoKshxSxmnnVIVBxyVw86gZKrZOWtd8/edit?usp=sharing)
 
 (Still working on it and can be updated according to project needs and requirements)
 
