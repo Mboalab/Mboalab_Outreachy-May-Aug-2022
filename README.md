@@ -1,6 +1,5 @@
 <div id="top" align="center">
 
-<<<<<<< HEAD
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Mboalab&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/stargazers"><img src="https://img.shields.io/github/stars/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Stars Badge"/></a>
@@ -61,27 +60,16 @@ We are primarily working on a project to support the mass production,  packaging
 
 In line with Outreachy’s guideline, the focus of our project is to prioritise the learning process and applicants' self-development over skill acquisition. 
 Both applicants with or without previous experience in open-source contributions and complete beginners are welcome to participate and contribute. 
-=======
-## General information about the Project:
-
-In line with Outreachy’s guideline, the focus of our project is to prioritise the learning process and applicants self-development over skill acquisition. 
-Both applicants with previous experience in open-source contributions and complete beginners are welcome to participate and contribute. 
->>>>>>> parent of 4428545 (Rearrange the folders and fix Task0 error)
 
 >**_Our main objective is to provide applicants with notions on open-source contributions and spirit, as well as with basics and advanced skills needed to complete the project;_**
 
 ## How to contribute to the project?
-Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round) on GitHub. 
+Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022) on GitHub. 
 Check the Contributions Guidelines and the list of details via [Technical Documentation](https://docs.google.com/document/d/1fzB-AcfYNnsvqBlwyJZJR1SfuvpjYxxpONnv13bPGqg/edit?usp=sharing)
 
 ## Mentor attribution
 Each project’s Starter Task is supervised by a specific mentor. Applicants desiring to contribute to a specific task should get in touch with the assigned mentor. 
-<<<<<<< HEAD
-Information about the assigned mentor can be found in the task’s descriptions. Information about Mboalab community Mentors can be found [here](/Meet%20the%20Mentors).
-See the [Meet the Mentors](/Meet%20the%20Mentors) Folder. Feel free to reach out [Bido](https://github.com/Bido) and [Nodira](https://github.com/nodira) for more guidance and details.
-=======
 Information about the assigned mentor can be found in the task’s descriptions.
-Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/blob/main/Meet%20the%20Mentors/Mboalab%20Community%20Mentors.md).
-See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab-Outreachy_December-to-March-2022-internship-round/tree/main/Meet%20the%20Mentors)
-Feel free to reach out `@Bido` and `@Nodira` for more guidance and details.
->>>>>>> parent of 4428545 (Rearrange the folders and fix Task0 error)
+Information about Mboalab community Mentors can be found [here](/Meet%20the%20Mentors).
+See the [Meet the Mentors](/Meet%20the%20Mentors) Folder.
+Feel free to reach out [Bido](https://github.com/Bido) and [Nodira](https://github.com/nodira) for more guidance and details.
