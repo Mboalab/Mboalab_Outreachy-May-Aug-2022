@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="0x10" android:background="{2:16843534}" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" android:minHeight="{2:16842829}" android:paddingStart="{2:16843709}" android:paddingEnd="{2:16843710}">
+	<LinearLayout android:gravity="0x800013" android:orientation="0" android:id="false" android:paddingTop="4dp" android:paddingBottom="4dp" android:layout_width="-2" android:layout_height="-2" android:minWidth="60dp" android:paddingEnd="12dp" android:layout_marginStart="-4dp">
+		<android.support.v7.internal.widget.PreferenceImageView android:id="resourceId:0x1020006" android:layout_width="-2" android:layout_height="-2" android:maxWidth="48dp" android:maxHeight="48dp" />
+	</LinearLayout>
+	<RelativeLayout android:paddingTop="16dp" android:paddingBottom="16dp" android:layout_width="-2" android:layout_height="-2" android:layout_weight="{4:1065353216}">
+		<TextView android:textAppearance="{2:16843678}" android:ellipsize="4" android:id="resourceId:0x1020016" android:layout_width="-2" android:layout_height="-2" />
+		<TextView android:textAppearance="{2:16842818}" android:textColor="{2:16842808}" android:ellipsize="4" android:id="resourceId:0x1020010" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" android:layout_below="resourceId:0x1020016" android:layout_alignStart="resourceId:0x1020016" />
+	</RelativeLayout>
+</LinearLayout>
