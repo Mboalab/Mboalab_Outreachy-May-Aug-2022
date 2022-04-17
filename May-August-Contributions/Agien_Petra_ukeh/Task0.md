@@ -6,7 +6,7 @@ This project; improving diagnostics of typhoid through Open Science using an Art
 Thank you [mentors](https://github.com/PetraAG/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet%20the%20Mentors) for the material on starting with open source, it was really helpful as open source can really be confusing sometimes with a thousand and one ways to do one thing. 
 Concepts such as 
 * forking, 
-* * cloning, 
-* * commiting changes, 
-* * making pull requests etc are some of the things acquired from the materials provided. 
+* cloning, 
+* commiting changes, 
+* making pull requests etc are some of the things acquired from the materials provided. 
 Thank you, and I am Looking forward to a great experience with this community.
