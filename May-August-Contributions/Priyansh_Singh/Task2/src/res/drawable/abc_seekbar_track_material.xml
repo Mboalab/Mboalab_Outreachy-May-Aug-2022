@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="resourceId:0x1020000" android:drawable="res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png" />
+	<item android:id="resourceId:0x102000f">
+		<scale android:scaleWidth="100%">
+			<selector>
+				<item android:state_enabled="false">
+					<color android:color="resourceId:0x106000d" />
+				</item>
+				<item android:drawable="res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png" />
+			</selector>
+		</scale>
+	</item>
+	<item android:id="resourceId:0x102000d">
+		<scale android:scaleWidth="100%">
+			<selector>
+				<item android:state_enabled="false">
+					<color android:color="resourceId:0x106000d" />
+				</item>
+				<item android:drawable="res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png" />
+			</selector>
+		</scale>
+	</item>
+</layer-list>
