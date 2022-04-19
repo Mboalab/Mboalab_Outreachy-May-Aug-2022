@@ -1,3 +1,5 @@
+Talk to the [bot](https://ps-19.github.io/bot/) about typhoid fever.
+
 # About Me
 I am an undergraduate student of IT. In my first year I started doing competitive coding and still today I am doing competitive coding (https://www.stopstalk.com/user/profile/ps_19).
 
