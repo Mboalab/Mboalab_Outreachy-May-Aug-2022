@@ -1,1 +1,0 @@
-**Hello mentors, I am Khushi Kumawat, a second year student at IIT Roorkee. I am new to open-source contributions. Really excited to learn new skills and looking forward to contribute to this project.**
