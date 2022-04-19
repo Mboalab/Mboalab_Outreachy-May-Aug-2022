@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="0x31" android:orientation="1" android:id="false" android:layout_width="-1" android:layout_height="-2">
+	<LinearLayout android:gravity="0x1" android:orientation="1" android:id="false" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="24dp">
+		<ImageView android:layout_gravity="0x1" android:id="resourceId:0x1020006" android:layout_width="-2" android:layout_height="-2" android:adjustViewBounds="true" android:maxWidth="24dp" android:maxHeight="24dp" />
+		<android.support.v7.widget.DialogTitle android:gravity="0x11" android:id="false" android:layout_width="-1" android:layout_height="-2" style="{2:16842843}" />
+	</LinearLayout>
+	<android.widget.Space android:id="false" android:visibility="2" android:layout_width="-1" android:layout_height="8dp" />
+</LinearLayout>
