@@ -16,6 +16,8 @@
 ### Complete App Documentation
 - **[Technical Documentation](https://docs.google.com/document/d/1pjb2QiqUWI4pi82_QNUR0iR-bpUoeXHQHzLhDHVscsg/edit?usp=sharing) over complete app building i.e, frontend and backend.**
 
+# **[Demo Video](https://www.loom.com/share/f3da00da698e42b488c4c6fd1b2f6408)** of App
+
 # Task 2
 
 ```
