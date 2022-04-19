@@ -42,4 +42,6 @@ Also, I have converted the link of the survey in QR code so that the form gets e
    
    https://chatbot.page/AOU8Co
 
-* **QR code** ![qr-code (1)](https://user-images.githubusercontent.com/46322717/164036223-8b404c61-96ef-4614-8cc7-9381e6e926e3.png)
+* **QR code** 
+
+  ![qr-code new](https://user-images.githubusercontent.com/46322717/164065444-5dd1822d-64b4-4ff5-816d-e8a2c5d31577.png)
