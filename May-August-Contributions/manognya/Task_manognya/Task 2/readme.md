@@ -1,23 +1,31 @@
 Hello,
 
-I am manognya dasika, an outreachy applicant -2022. '
+I am manognya dasika, `an outreachy applicant` -2022. '
 
-This task is assigned under @essie mentor. Thank you mentor for guiding me throught the task completion. 
+> **This task is assigned under @JAFSIA Elisee mentor. Thank you mentor for guiding me throught the task completion. ✨✨**
 
-Overview 
-
+Overview ⚠️
+=================================================================================================
 We see many-many people are not getting clarity why this typhoid diseases is spreading. Neither the doctors cannot say how the pain is and at the same time, nor the patients can.
 
 Keeping in mind, I have designed an app which could help the end users to connect through the problem and get cured. There are many features in this app. like -
 
-1. home page
-2. about page
-3. feed page
-4. chat page
-5. notifications box
-6. profile page
-7. calendar page
-8. analysis page
+1️⃣ home page
+
+2️⃣ about page
+
+3️⃣ feed page
+
+4️⃣ chat page
+
+5️⃣ notifications box
+
+6️⃣ profile page
+
+7️⃣ calendar page
+
+8️⃣ analysis page
+
 
 1. home page -
 the end users can go to this page ansd search for the related issues where they are facing. You can just scroll the pages. Join the communities and much more !
