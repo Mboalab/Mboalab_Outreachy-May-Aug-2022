@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="0x11" android:paddingLeft="4dp" android:paddingRight="4dp" android:focusable="true" android:addStatesFromChildren="true" android:layout_width="-2" android:layout_height="-2" style="{2:2130968587}">
-	<ProgressBar android:focusable="true" android:layout_width="24dp" android:layout_height="24dp" style="{2:16843544}" />
-</LinearLayout>

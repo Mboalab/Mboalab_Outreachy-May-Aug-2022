@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<view xmlns:android="http://schemas.android.com/apk/res/android" android:theme="resourceId:0x7f0e01a4" android:layout_gravity="0x50" android:layout_width="-1" android:layout_height="-2" class="android.support.design.internal.SnackbarContentLayout">
-	<TextView android:textAppearance="resourceId:0x7f0e0182" android:ellipsize="3" android:layout_gravity="0x800013" android:id="false" android:paddingLeft="12dp" android:paddingTop="14dp" android:paddingRight="12dp" android:paddingBottom="14dp" android:layout_width="-2" android:layout_height="-2" android:maxLines="2" android:layout_weight="{4:1065353216}" />
-	<Button android:textColor="{2:2130968699}" android:layout_gravity="0x800015" android:id="false" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0dp" android:minWidth="48dp" style="{2:2130968662}" />
-</view>

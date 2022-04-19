@@ -88,4 +88,3 @@ Link to UI design of the app : https://www.figma.com/file/bLXL66RlT2SrjLsM8fOHyA
     
     
 
-

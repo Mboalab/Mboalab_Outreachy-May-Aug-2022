@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.v7.widget.FitWindowsLinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="1" android:fitsSystemWindows="true" android:layout_width="-1" android:layout_height="-1">
-	<TextView android:ellipsize="3" android:id="false" android:paddingLeft="{2:2130968751}" android:paddingTop="18dp" android:paddingRight="{2:2130968751}" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" style="{2:16842843}" />
-	<include android:layout_width="-1" android:layout_height="-2" android:layout_weight="{4:1065353216}" layout="res/layout/abc_screen_content_include.xml" />
-</android.support.v7.widget.FitWindowsLinearLayout>
