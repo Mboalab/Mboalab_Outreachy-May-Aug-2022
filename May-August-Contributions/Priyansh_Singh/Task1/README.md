@@ -2,10 +2,14 @@
 - [Method-1](https://www.loom.com/share/d0ac40ef64f046288f27649eb39c4d46)
 - [Method-2](https://www.loom.com/share/3e580de38647438aa80124f6105f5d43)
 
+*`Please watch video at 2X speed for better experience.`*
+
 # Data
 
 ```
-“It is known that the majority of the time for running machine learning end-to-end is spent on preparing the data, which includes collecting, cleaning, analyzing, visualizing, and feature engineering.”
+“It is known that the majority of the time for running machine learning end-to-end is spent on preparing the data, which includes
+collecting, cleaning, analyzing, visualizing, and feature engineering.”
+
 ```
 
 The most common data sources to collect data for a ML models are:
