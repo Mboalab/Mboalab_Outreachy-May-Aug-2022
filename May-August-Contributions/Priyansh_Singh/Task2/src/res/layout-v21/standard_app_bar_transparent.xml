@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.AppBarLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="false" android:background="res/drawable/gradient_scrim_270.xml" android:fitsSystemWindows="false" android:layout_width="-1" android:layout_height="-2" android:transitionName="app_bar_layout" app:elevation="0dp">
+	<android.support.v7.widget.Toolbar android:theme="{2:2130969103}" android:id="false" android:background="resourceId:0x0" android:layout_width="-1" android:layout_height="{2:2130968579}" android:transitionName="toolbar" app:layout_scrollFlags="{2:2130969101}" app:popupTheme="{2:2130969100}" />
+</android.support.design.widget.AppBarLayout>
