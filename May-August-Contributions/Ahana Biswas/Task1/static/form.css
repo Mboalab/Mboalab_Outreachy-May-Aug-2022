@@ -1,0 +1,20 @@
+body{
+    width: 400px;
+    margin: 50px auto 0 auto;
+    background-image: url("https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+    background-position: -200px 0;
+    background-size: 200%;
+    font-size: 20px;
+    background-color: rgba(0,0,0,0.5);
+}
+form{
+    border: 2px solid;
+    padding: 2rem;
+    width: 400px;
+    background-color: rgba(207,224,255,0.5);
+}
+#btn{
+    width: 100px;
+    height: 40px;
+    font-size: 20px;
+}

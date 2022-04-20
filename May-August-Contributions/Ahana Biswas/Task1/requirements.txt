@@ -1,0 +1,12 @@
+certifi==2020.6.20
+click
+colorama
+Flask
+Flask-SQLAlchemy==2.5.1
+greenlet==1.1.2
+itsdangerous
+Jinja2
+MarkupSafe
+SQLAlchemy==1.4.35
+Werkzeug
+wincertstore==0.2
