@@ -1,4 +1,21 @@
-# [FIGMA](https://www.figma.com/file/OmiDLNA8nqsAzeJtrw15mU/Priyansh-Singh-Typoid-Fever?node-id=0%3A1)
+# **[Demo Video](https://www.loom.com/share/f3da00da698e42b488c4c6fd1b2f6408)** of App
+
+**`Please use CTRL + to enlarge the FIGMA's on figma.com website`**
+
+### Complete App
+- **[FIGMA](https://www.figma.com/file/OmiDLNA8nqsAzeJtrw15mU/Priyansh-Singh-Typoid-Fever?node-id=0%3A1) : App's Figma.**<br/>
+
+- ***[Technical Docs And Screenshot](https://docs.google.com/document/d/1Lf84SVycahVKrOVtYRzmsEAmLgT2sK8yNhAP6Wfh6m4/edit?usp=sharing)* of whole app.**
+
+
+### App Prediction Feature
+- **[FIGMA](https://www.figma.com/file/9aZzvnHegYajVwN8r3KxAK/Typhoid-Fever-Prediction?node-id=0%3A1) : App Prediction Feature Figma.**<br/>
+
+- ***[Technical Docs And Screenshot](https://docs.google.com/document/d/1dJfqPvf0Vm4xr14QiVF-CQ-DQST4SKTbIvMQ53wN6nw/edit?usp=sharing)* of app's prediction feature.**
+
+
+### Complete App Development Documentation
+- **[Technical Documentation](https://docs.google.com/document/d/1pjb2QiqUWI4pi82_QNUR0iR-bpUoeXHQHzLhDHVscsg/edit?usp=sharing) over complete app building i.e, frontend and backend.**
 
 # Task 2
 
@@ -24,11 +41,9 @@ Health management apps that can:
 - *Streamlining Clinical Operations.*
 - *Reduction in Medical Bills.*
 
-**`Priyansh-App Typoid Fever`** is an Android mobile application designed to make smartphones an affordable yet effective solution to this issue. The idea is to get users familise with typoid fever on the basis of symptoms, teaching them the symptom, cause, types, diagnostic method for typoid fever, prevention methods etc.
+**`Typoid Fever`** is an Android mobile application designed to make smartphones an affordable yet effective solution to this issue. The idea is to get users familise with typoid fever on the basis of symptoms, teaching them the symptom, cause, types, diagnostic method for typoid fever, prevention methods etc.
 
-Basically, app contains various features containing the information of various aspects like what is typoid fever, Causes, Symptom etc. At the end app is going to teach users about typoid fever, measures the possibility of typoid fever and i have also marked some future feature enhancements down in [this](https://github.com/ps-19/Mboalab_Outreachy-May-Aug-2022/tree/task/Priyansh_Singh/Task2#future-provision) section. 
-
-App is very naive in solving the issue, but we can add functionality to make even better.
+Basically, app contains various features containing the information of various aspects like what is typoid fever, Causes, Symptom etc it has functionality to detect typhoid fever on the basis of symptoms, it have functionality of demonstrating and analysing the Widal test, Blood test, Bone Marrow Culture etc.. At the end app is going to teach, analyse, and predict the possiblility of users about typoid fever, it finally measures the possibility of typoid fever and i have also marked some future feature enhancements down in [Future Provision](/May-August-Contributions/Priyansh_Singh/Task2/README.md#future-provision) section. 
 
 # Section
 
@@ -46,7 +61,7 @@ App is very naive in solving the issue, but we can add functionality to make eve
 
 # Future Provision
 
-- [ ] Add a survey form.
+- [x] Add a survey form.
 - [ ] Add a primary test to check the percentage possibility of disease like in `Aarogya Setu`.
 - [ ] Add a live data visualisation of number of cases in the world.
 - [ ] Add nearby hospital info of government verified and suitable facility.
@@ -92,6 +107,12 @@ Follow the instructions in the Android Developer Docs to [Run apps on Android Em
 - Android SDK Build-Tools 27.0.3+
 - Framework 7
 - Builder AI
+
+# Algorithms Used
+- Machine Learning
+- AI
+- Data Analysis
+- Web Scrapping
 
 # Lincense
 All of the mentioned resources and source code in this directory authored by Priyansh Singh is licensed under MIT Lincense. The contribution, usage and distribution of the code is goverened by the mentioned lincense. For educational purpose and non-profit initiative the source code is free to use and modified.
