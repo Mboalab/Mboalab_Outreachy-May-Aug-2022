@@ -14,7 +14,7 @@
 - ***[Technical Docs And Screenshot](https://docs.google.com/document/d/1dJfqPvf0Vm4xr14QiVF-CQ-DQST4SKTbIvMQ53wN6nw/edit?usp=sharing)* of app's prediction feature.**
 
 
-### Complete App Documentation
+### Complete App Development Documentation
 - **[Technical Documentation](https://docs.google.com/document/d/1pjb2QiqUWI4pi82_QNUR0iR-bpUoeXHQHzLhDHVscsg/edit?usp=sharing) over complete app building i.e, frontend and backend.**
 
 # Task 2
@@ -43,9 +43,7 @@ Health management apps that can:
 
 **`Typoid Fever`** is an Android mobile application designed to make smartphones an affordable yet effective solution to this issue. The idea is to get users familise with typoid fever on the basis of symptoms, teaching them the symptom, cause, types, diagnostic method for typoid fever, prevention methods etc.
 
-Basically, app contains various features containing the information of various aspects like what is typoid fever, Causes, Symptom etc. At the end app is going to teach users about typoid fever, measures the possibility of typoid fever and i have also marked some future feature enhancements down in [this](https://github.com/ps-19/Mboalab_Outreachy-May-Aug-2022/tree/task/Priyansh_Singh/Task2#future-provision) section. 
-
-App is very naive in solving the issue, but we can add functionality to make even better.
+Basically, app contains various features containing the information of various aspects like what is typoid fever, Causes, Symptom etc it has functionality to detect typhoid fever on the basis of symptoms, it have functionality of demonstrating and analysing the Widal test, Blood test, Bone Marrow Culture etc.. At the end app is going to teach, analyse, and predict the possiblility of users about typoid fever, it finally measures the possibility of typoid fever and i have also marked some future feature enhancements down in [Future Provision](/May-August-Contributions/Priyansh_Singh/Task2/README.md#future-provision) section. 
 
 # Section
 
