@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.design.widget.NavigationView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:theme="{2:2130968938}" android:layout_gravity="0x800003" android:id="false" android:fitsSystemWindows="true" android:layout_width="-2" android:layout_height="-1" app:headerLayout="res/layout/drawer_header.xml" app:itemTextColor="{2:16842806}" app:menu="res/menu/drawer_menu.xml" />

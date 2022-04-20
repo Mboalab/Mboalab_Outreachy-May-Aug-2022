@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<transitionSet xmlns:android="http://schemas.android.com/apk/res/android" android:transitionOrdering="1">
-	<fade android:duration="500" android:fadingMode="1" />
-	<changeBounds android:duration="500" />
-	<targets>
-		<target android:targetName="activity_image" />
-	</targets>
-</transitionSet>
