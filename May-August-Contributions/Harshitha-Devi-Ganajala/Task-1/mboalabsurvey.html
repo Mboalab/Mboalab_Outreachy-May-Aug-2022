@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="survey.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+          <h1 id="title" class="text-center">Mboalab Survey Form</h1>
+          <p id="description" class="description text-center">
+            This is a data collection tool for Typhoid diagnosis.
+          </p>
+        </header>
+        <form id="survey-form">
+          <div class="form-group">
+            <label id="name-label" for="name">Full Name</label>
+            <input
+              type="text"
+              name="name"
+              id="name"
+              class="form-control"
+              placeholder="First Name Last Name"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label id="email-label" for="email">Email</label>
+            <input
+              type="email"
+              name="email"
+              id="email"
+              class="form-control"
+              placeholder="xyz@gmail.com"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label id="number-label" for="number">Age</label>
+            <input
+              type="number"
+              name="age"
+              id="number"
+              min="10"
+              max="99"
+              class="form-control"
+              placeholder="Age"
+              required/>
+          </div>
+          <div class="form-group">
+            <p>
+              Gender
+            </p>
+            <select id="most-like" name="mostLike" class="form-control" required>
+              <option disabled selected value>Select an option</option>
+              <option value="Male">Male</option>
+              <option value="Female">Female</option>
+              <option value="PNS">Prefer not to say</option>
+            </select>
+          </div>
+          <p><strong>Which of the following symptoms has the Typhoid patient faced? We appreciate your input.</strong></p>
+          <div class="form-group">
+            <p>
+              <u>Malaise</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>     
+          <div class="form-group">
+            <p>
+            <u>Anorexia</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Fever</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Headache</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Cough</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Rash/Skin Spots</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Body Aches</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Diarrhoea</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Constipation</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Vomiting</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Bloody Stools</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Nosebleeds</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>  
+          <div class="form-group">
+            <p>
+            <u>Fatigue</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div> 
+          <div class="form-group">
+            <p>
+            <u>Abdominal Pain</u>
+            </p>
+      
+            <label
+              ><input
+                name="prefer"
+                value="yes"
+                type="checkbox"
+                class="input-checkbox"
+              />Yes</label
+            >
+            <label>
+              <input
+                name="prefer"
+                value="no"
+                type="checkbox"
+                class="input-checkbox"
+              />No</label
+            >
+            <label
+              ><input
+                name="prefer"
+                value="unknown"
+                type="checkbox"
+                class="input-checkbox"
+              />Unknown</label
+            >
+          </div>   
+          <div class="form-group">
+            <p><strong>Anything you would like to tell us?</strong></p>
+            <textarea
+              id="comments"
+              class="input-textarea"
+              name="comment"
+              placeholder="Drop in feedback, suggestions or anything!"
+            ></textarea>
+          </div>
+      
+          <div class="form-group">
+            <a href="thankyoupage.html">
+              <button type="submit" id="submit" class="submit-button">
+                Submit
+              </button>
+            </a>
+          </div>
+        </form>
+      </div>
+</body>
+</html>
