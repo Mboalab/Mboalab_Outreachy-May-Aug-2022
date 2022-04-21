@@ -1,5 +1,5 @@
 # Improve diagnostic of typhoid through open science  
-<b>Introduction of the problem</b><br>
+##<b>Introduction of the problem</b><br>
 WHO estimates the global typhoid fever disease burden at 11-20 million cases annually, resulting in about 128 000–161 000 deaths per year.The main aim of the Project is
 to improve diagnostics of typhoid through Open-science. Combining AI systems with an irreplaceable human clinician can advance better diagnosis.<br>
 <b>Proposed Solution</b><br>
@@ -35,18 +35,18 @@ to improve diagnostics of typhoid through Open-science. Combining AI systems wit
 <b>•</b>Mboalab wishes you good health!!!!. <br><br>
 ![Screenshot (37)](https://user-images.githubusercontent.com/56269029/163762927-67bff8d7-23cd-41ef-8419-e130d0555984.png)<br><br>
 
-<b>Tasks</b>:(All the tasks mentioned here are according to my proposed solution and not the actual tasks of the internship defined by mentors)<br>
+##<b>Tasks</b>:(All the tasks mentioned here are according to my proposed solution and not the actual tasks of the internship defined by mentors)<br>
 <b>•</b>Collect the dataset on a large scale in which 18 conditional attributes(Symptoms) and 1 decisional attribute(Result) and, some blood smear images will be presented.<br>
 <b>•</b>By Using the Rough set algorithm predict the output by taking into consideration of symptoms.<br>
 <b>•</b>If the result from step 2 is positive, Make a UI to use the mobile phone‘s high-resolution camera and timer to detect agglutination with the reactions of antigens and patients serum.<br>
 <b>•</b>It is observed that enteric fever significantly reduces the PCV and PLT of human blood. To calculate the complete blood count YOLO algorithm mentioned in the reference [3] can  be deployed in the Application.<br>
 <b>•</b>Some basic UIs such as personal details, mark your symptoms, and test results will also be included in the application.<br>
-<b>Future Scope</b>:<br>
+##<b>Future Scope</b>:<br>
 <b>•</b>Other methods of Typhoid diagnosis such as the Slide Semi-Quantitative Method and Quantitative Tube Method can also be added to the application for more accuracy of test results.<br>
 <b>•</b>Collection of datasets on a large scale so that accuracy of algorithms can be increased.<br>
 <b>•</b>App will be developed with the google translator API so that it can be used worldwide.<br>
 <b>Link of the technical documentation</b> [Mboalab Submission by Antima Dwivedi](https://docs.google.com/document/d/1-b8ppwrDNejHThlLIyAG-QCAgJab9HiJE5WJk1eZma4/edit?usp=sharing)<br>
-<b>References</b><br>
+##<b>References</b><br>
 [1]A Machine Learning Approach to Clinical Diagnosis of Typhoid Fever by Abiodun Oguntimilehin, Adebayo O Adetunmbi and Abiola O.B.<br>
 [2] Changes in some hematological parameters in typhoid fever patients attending Landmark University Medical Center, Omuaran-Nigeria by James A.NdkoVictor T.Dojumo, Jeremiah A.Akinwumi,Vicyor O.Fajobi Akinyomade O.Owolabi, Oludolapo Olatinsu.<br>
 [3] Machine learning approach of automatic identification and counting of blood cells by Mohammad Mahmudul Alam and Mohammad Tariqul Islam.
