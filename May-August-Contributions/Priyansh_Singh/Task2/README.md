@@ -1,6 +1,6 @@
 # **[Demo Video](https://www.loom.com/share/f3da00da698e42b488c4c6fd1b2f6408)** of App
 
-### Use **[Image Processing]()** algorithm method to efficiently tackle typhoid fever.
+### Use **[Image Processing](https://docs.google.com/document/d/1enL3Qyc8PkZc5o57Gb8c5XzjiLUVCGPxTA_bH_N7Fxs/edit?usp=sharing)** algorithm method to efficiently tackle typhoid fever.
 
 **`Please use CTRL + to enlarge the FIGMA's on figma.com website`**
 
