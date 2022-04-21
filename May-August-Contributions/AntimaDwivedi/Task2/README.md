@@ -1,5 +1,5 @@
 # Improve diagnostic of typhoid through open science  
-##<b>Introduction of the problem</b><br>
+<b>Introduction of the problem</b><br>
 WHO estimates the global typhoid fever disease burden at 11-20 million cases annually, resulting in about 128 000–161 000 deaths per year.The main aim of the Project is
 to improve diagnostics of typhoid through Open-science. Combining AI systems with an irreplaceable human clinician can advance better diagnosis.<br>
 <b>Proposed Solution</b><br>
