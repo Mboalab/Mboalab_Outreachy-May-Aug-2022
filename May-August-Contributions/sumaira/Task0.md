@@ -1,21 +1,18 @@
 ---
-title: Familiarize yourself with GitHub
+# Familiarize yourself with GitHub
 ---
 
-![](media/image1.png){width="5.204861111111111in"
-height="5.204861111111111in"}
+![image](https://user-images.githubusercontent.com/5617255/164552165-805abd90-fdee-4b59-a9b0-abe8fc5754ac.png)
+
 
 1). Fork the repository using the fork button available on upper right
 corner.
 
-![](media/image2.png){width="6.492361111111111in"
-height="0.5381944444444444in"}
+![image](https://user-images.githubusercontent.com/5617255/164552405-8b1b78be-8409-4d6a-ab48-ce03dae37753.png)
 
 2). Run the command
 
-“ git clone
-
-https://github.com/Mboalab/Mboalab\_Outreachy-May-Aug-2022.git”
+“ git clone https://github.com/Mboalab/Mboalab\_Outreachy-May-Aug-2022.git”
 
 in your CLI / github desktop app / or IDE. This command is used only
 once, no repetition is needed.
@@ -52,7 +49,7 @@ from the upstream/Mboalab.
 11). OR update your own origin/your\_github main branch by clicking the
 fetch upstream button.
 
-![](media/image3.png){width="6.5in" height="1.363888888888889in"}
+![image](https://user-images.githubusercontent.com/5617255/164552481-1d0ea221-9a7a-4e9f-9ea6-e85adc38bc02.png)
 
 12). Then make a pull request from your own origin/your\_github.
 
@@ -62,5 +59,4 @@ in the code.
 14). Once you are done make a new branch and checkout to that branch.
 And then code.
 
-Apart from this I too don’t like conflicts as some time they make my
-branch unusable.
+
