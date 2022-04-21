@@ -1,0 +1,1 @@
+Hello mentors. This is my contribution to task 2. I used Google docs to design the methodology document. View here https://docs.google.com/document/d/1Mt9EEYrVysimbfQGpIrA_SftLnjj0BcjLednvBCxwCU/edit?usp=sharing
