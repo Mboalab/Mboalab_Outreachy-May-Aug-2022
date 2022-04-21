@@ -1,1 +1,259 @@
+body{
+  margin: 0;
+}
+.background_image{
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(images/img8.jpg);
+    height: 750px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+}
+ #home{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    border: 2px solid dodgerblue;
+    border-radius: 6px;
+    font-family: Times New Roman;
+}
+#home:hover{
+    background-color: dodgerblue;
+    box-shadow: 5px 5px 10px dodgerblue;
+    opacity: .9;
+    transition: 1s;
+    padding: 8px;
+}
+#register_patient{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Times New Roman;
+}
+#register_patient:hover{
+    background-color: dodgerblue;
+    border-radius: 6px;
+    box-shadow: 5px 5px 10px dodgerblue;
+    opacity: .9;
+    transition: 1s;
+    padding: 8px;
+}
+#patient_symptoms{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Times New Roman;
+}
+#patient_symptoms:hover{
+    background-color: dodgerblue;
+    border-radius: 6px;
+    box-shadow: 5px 5px 10px dodgerblue;
+    opacity: .9;
+    transition: 1s;
+    padding: 8px;
+}
+#feedback{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Times New Roman;
+}
+#feedback:hover{
+    background-color: dodgerblue;
+    border-radius: 6px;
+    padding: 8px;
+    box-shadow: 5px 5px 10px dodgerblue;
+    opacity: .9;
+    transition: 1s;
+}
+.mboalab_quote{
+  text-align: center;
+  color: white;
+  font-family: Times New Roman;
+}
+#all_register_div{
+    background-color: #EEEEEE;
+    text-align: center;
+    color: #3A3845;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font-family: Times New Roman;
+}
+.register_patient_text{
+    color: #3A3845;
+    font-size: 45px;
+    font-family:  'Noto Serif', serif;
+    text-decoration:none;
+    font-family: Times New Roman;
+}
+.register_image{
+    width: 200px;;
+    height: 200px;
+    border-radius: 5px;
+}
+.register_patient_div{
+   background-color: #EEEEEE;
+   padding-bottom: 20px;
+}
+.image_text{
+  font-size: 20px;
+}
+#register_border_div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3A3845;
+    width: 40%;
+    height: 408px;
+    border: 3px solid white;
+    border-radius: 15px;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    box-shadow: 0 0 10px 5px gray;
+}
+ .register_div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    width: 95%;
+    height: 350px;
+    border: 3px solid white;
+    border-radius: 15px;
+    padding-bottom: 50px;
+    box-shadow: 0 0 10px 5px #3A3845;
+}
+form{
+    margin-top: 25px;
+}
+.register_inputs{
+    margin-left: 30px;
+    color: gray;
+    padding: 15px;
+    width: 70%;
+    font-family: 'Noto Serif', serif;
+    font-size: 13px;
+    background: transparent;
+    border-color: gray;
+    border: transparent;
+    border-bottom: 2px solid gray;
+    transition: 2s
+}
+.register_inputs:focus{
+    width: 80%;
+}
+.patient_symptoms_div{
+    text-align: center;
+    background-color: #143F6B;
+    font-family: Times New Roman;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.patient_symptoms_text{
+    font-size: 45px;
+    text-decoration: none;
+}
+.patient_symptoms_text:hover{
+  color: blue;
+}
+.submit_form{
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+    border: 2px solid dodgerblue;
+    font-size: 20px;
+}
+.submit_form:hover{
+    background-color: blue;
+    border: 2px solid blue;
+    box-shadow: 5px 5px 10px blue;
+    opacity: .9;
+    transition: 1s;
+    padding: 15px;
+}
+.typhoid_severity{
+    background-color: dodgerblue;
+    border: 2px solid dodgerblue;
+    color: black;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.typhoid_severity:hover{
+    background-color: blue;
+    border: 2px solid blue;
+    box-shadow: 5px 5px 10px blue;
+    opacity: .9;
+    transition: 1s;
+    padding: 15px;
+}
+.typhoid_severity_link{
+    text-decoration: none;
+    color: white;
+}
+.typhoid_severity_link:hover{
+    text-decoration: none;
+}
+.feedback_div{
+    text-align: center;
+    background-color: #ededed;
+    margin-top: -15px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.feedback_text{
+    text-decoration: none;
+    font-size: 35px;
+    color: red;
+}
 
+.message{
+    border-radius: 5px;
+    width: 400px;
+    height: 300px;
+    border: 1px solid #ededed;
+}
+.message_submit{
+    border-radius: 5px;
+    padding-right: 60px;
+    padding-left: 60px;
+    color: white;
+    background-color: dodgerblue;
+    border: 2px solid dodgerblue;
+    font-size: 20px;
+    font-family: Times New Roman;
+}
+.message_submit:hover{
+    background-color: blue;
+    border: 2px solid blue;
+    box-shadow: 5px 5px 10px blue;
+    opacity: .9;
+    transition: 1s;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+footer{
+    text-align: center;
+    background-color: #143F6B;
+    padding-bottom: 10px;
+}
+#socialfacebook{
+    padding:15px 20px 0px 0px;
+}
+#socialfacebook:hover{color:dodgerblue}
+#socialtwitter{
+    padding:15px 22px 0px 0px;
+}
+#socialtwitter:hover{color:dodgerblue}
+#sociallinkedin{
+    padding:15px 23px 0px 0px;
+}
+#sociallinkedin:hover{color:dodgerblue}
+#socialinstagram{
+    padding: 15px 23px 0px 0px;
+}
+#socialinstagram:hover{color:dodgerblue}
