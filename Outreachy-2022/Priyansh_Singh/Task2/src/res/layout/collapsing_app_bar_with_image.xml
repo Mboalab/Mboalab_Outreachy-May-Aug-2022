@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<android.support.design.widget.AppBarLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:theme="{2:2130969103}" android:id="false" android:fitsSystemWindows="true" android:layout_width="-1" android:layout_height="-2">
-	<android.support.design.widget.CollapsingToolbarLayout android:id="false" android:fitsSystemWindows="true" android:layout_width="-1" android:layout_height="{2:2130968696}" android:minHeight="{2:2130968579}" app:contentScrim="{2:2130968695}" app:expandedTitleMarginEnd="64dp" app:expandedTitleMarginStart="48dp" app:layout_scrollFlags="{2:2130968697}" app:titleEnabled="true">
-		<android.support.percent.PercentFrameLayout android:id="false" android:fitsSystemWindows="true" android:layout_width="-1" android:layout_height="-1" app:layout_collapseMode="2" app:layout_scrollFlags="0x1">
-			<ImageView android:id="false" android:fitsSystemWindows="true" android:scaleType="6" app:layout_aspectRatio="{2:2130968792}" app:layout_collapseMode="2" app:layout_scrollFlags="0x1" app:layout_widthPercent="2.2E-44%" />
-		</android.support.percent.PercentFrameLayout>
-		<android.support.v7.widget.Toolbar android:id="false" android:background="resourceId:0x106000d" android:fitsSystemWindows="true" android:layout_width="-1" android:layout_height="{2:2130968579}" app:layout_collapseMode="1" app:popupTheme="{2:2130969100}" />
-	</android.support.design.widget.CollapsingToolbarLayout>
-</android.support.design.widget.AppBarLayout>

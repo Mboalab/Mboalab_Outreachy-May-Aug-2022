@@ -1,3 +1,0 @@
-- GitHub account - https://github.com/itsIapetus/
-- Went through documentation on basic knowledge on how to use, write and contribute on GitHub.
-- Use acquired knowledge to contribute to a selected task - Starter Task 0.

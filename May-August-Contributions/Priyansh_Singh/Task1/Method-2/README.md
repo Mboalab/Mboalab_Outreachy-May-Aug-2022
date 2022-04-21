@@ -11,7 +11,7 @@ Web scraping is an automatic method to obtain large amounts of data from website
 
 # Important Points
 
-**I have attached the web scraping tools. [Amazon Review](/Amazon-Product-Reviews.ipynb) is sample code to scrap data. We can implement the same for collecting the data for COVID-19 datasets from various website.**
+**I have attached the web scraping tools. [Amazon Review](/May-August-Contributions/Priyansh_Singh/Task1/Method-2/Amazon-Product-Reviews.ipynb) is sample code to scrap data. We can implement the same for collecting the data for COVID-19 datasets from various website.**
 
-[CODE](/Data_Collection.ipynb)
+[CODE](/May-August-Contributions/Priyansh_Singh/Task1/Method-2/Data_Collection.ipynb)
 
