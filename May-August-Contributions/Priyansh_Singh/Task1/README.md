@@ -6,6 +6,8 @@
 
 *`Please watch video at 2X speed for better experience.`*
 
+Use **[Image Processing](https://docs.google.com/document/d/1enL3Qyc8PkZc5o57Gb8c5XzjiLUVCGPxTA_bH_N7Fxs/edit?usp=sharing)** algorithm method to efficiently tackle typhoid fever.
+
 # Data
 
 ```
