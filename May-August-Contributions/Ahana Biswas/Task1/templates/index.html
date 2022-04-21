@@ -1,0 +1,101 @@
+{% extends "layout.html"%}
+{% block body %}
+    <h2>Survey for Typhoid Fever</h2>
+    <form action="/get_data" method="post">
+        <label for="name">Patient's name</label><br>
+        <input autocomplete="off" autofocus name="name" placeholder="Name" type="text">
+        <br><br>
+        <label for="age">Patient's age</label><br>
+        <input name="age" placeholder="Age" type="text">
+        <br><br>
+        <label for="blood">Blood Type</label><br>
+        <select name="blood" id="blood">
+            <option value="A+">A+</option>
+            <option value="B+">B+</option>
+            <option value="AB+">AB+</option>
+            <option value="O+">O+</option>
+            <option value="A-">A-</option>
+            <option value="B-">B-</option>
+            <option value="AB-">AB-</option>
+            <option value="O-">O-</option>
+        </select>
+        <br><br>
+        <label for="weight">Patient's weight</label><br>
+        <input name="weight" placeholder="Weight" type="text"><br>
+        <label for="fever">Does the patient suffer from fever?</label><br>
+        <input type="radio" id="yes fever" name="fever" value="Yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no fever" name="fever" value="No">
+        <label for="no">No</label>
+        <br><br>
+        <label for="temp">If yes then what is the body temperature?</label>
+        <input type="text" name="temp" placeholder="Temperature">
+        <br><br>
+        <label for="days">How long has the patient been suffering from fever?</label><br>
+        <input type="text" name="days" placeholder="days">
+        <br><br>
+        <label for="headache">Does the patient suffer from headache?</label><br>
+        <input type="radio" id="yes headache" name="headache" value="Yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no headache" name="headache" value="No">
+        <label for="no">No</label>
+        <br><br>
+        <label for="muscleache">Does the patient suffer from muscleache?</label><br>
+        <input type="radio" id="yes muscleache" name="muscleache" value="Yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no muscleache" name="muscleache" value="No">
+        <label for="no">No</label>
+        <br><br>
+        <label for="diarrhea">Does the patient suffer from diarrhea?</label><br>
+        <input type="radio" id="yes diarrhea" name="diarrhea" value="Yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no diarrhea" name="diarrhea" value="No">
+        <label for="no">No</label>
+        <br><br>
+        <label for="weightloss">Have the patient recently experienced weight loss?</label><br>
+        <input type="radio" id="yes weightloss" name="weightloss" value="Yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no weightloss" name="weightloss" value="No">
+        <label for="no">No</label>
+        <br><br>
+        <label for="stomachache">Does the patient suffer from stomachache?</label><br>
+        <input type="radio" id="yes stomachache" name="stomachache" value="Yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no stomachache" name="stomachache" value="No">
+        <label for="no">No</label>
+        <br><br>
+        <label for="rash">Does the patient suffer from rash?</label><br>
+        <input type="radio" id="yes rash" name="rash" value="Yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no rash" name="rash" value="No">
+        <label for="no">No</label>
+        <br><br>
+        <label for="tongue">Does the patient have coated tongue?</label><br>
+        <input type="radio" id="yes tongue" name="tongue" value="Yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no tongue" name="tongue" value="No">
+        <label for="no">No</label>
+        <br><br>
+        <label for="travel">Has the patient travelled somewhere recently?</label><br>
+        <input type="radio" id="yes travel" name="travel" value="Yes">
+        <label for="yes">Yes</label>
+        <input type="radio" id="no travel" name="travel" value="No">
+        <label for="no">No</label>
+        <br><br>
+        <label for="condition">General Condition</label><br>
+        <select name="condition" id="condition">
+            <option value="Mild Illness">Mild Illness</option>
+            <option value="Moderate Illness">Moderate Illness</option>
+            <option value="Severe Illness">Severe Illness</option>
+        </select>
+        <br><br>
+        <label for="respiration">Respiration Status</label><br>
+        <select name="respiration" id="respiration">
+            <option value="Normal">Normal</option>
+            <option value="Fast">Fast</option>
+            <option value="Dyspnea">Dyspnea</option>
+        </select>
+        <br><br>
+        <input id="btn" type="submit">
+    </form>
+{% endblock %}
