@@ -51,7 +51,7 @@ to improve diagnostics of typhoid through Open-science. Combining AI systems wit
 <b>References</b><br>
 [1]A Machine Learning Approach to Clinical Diagnosis of Typhoid Fever by Abiodun Oguntimilehin, Adebayo O Adetunmbi and Abiola O.B.<br>
 [2] Changes in some hematological parameters in typhoid fever patients attending Landmark University Medical Center, Omuaran-Nigeria by James A.NdkoVictor T.Dojumo, Jeremiah A.Akinwumi,Vicyor O.Fajobi Akinyomade O.Owolabi, Oludolapo Olatinsu.<br>
-[3] Machine learning approach of automatic identification and counting of blood cells by Mohammad Mahmudul Alam and Mohammad Tariqul Islam.
+[3] Machine learning approach of automatic identification and counting of blood cells by Mohammad Mahmudul Alam and Mohammad Tariqul Islam.<br>
 
 
 
