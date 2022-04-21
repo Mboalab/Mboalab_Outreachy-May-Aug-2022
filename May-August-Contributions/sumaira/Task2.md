@@ -1,5 +1,5 @@
 ---
-title: 'Typoid Mobile app design.'
+# 'Typoid Mobile app design.'
 ---
 
 In this task we are provided with a sample app known as “malaria
@@ -41,7 +41,6 @@ Libraries and tools Used to build malaria app:
 Now, according to a popular site “geekforgeek” java is the number one
 choice for mobile app developers.
 
-![](media/image1.png){width="6.5in" height="4.5152777777777775in"}
 
 However, the trends are changing and python is fighting for the top
 position when it comes to machine learning. Below I am going to list
@@ -62,8 +61,6 @@ Syntax:
 --------
 
 -   Easy to learn and use.
-
-![](media/image2.png){width="6.136111111111111in" height="3.85625in"}
 
 Performance:
 ============
