@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.newandromo.dev338923.app614241.DetachingRecyclerView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="false" android:scrollbars="0x200" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" android:fadeScrollbars="true" app:layout_behavior="android.support.design.widget.AppBarLayout$ScrollingViewBehavior" />
