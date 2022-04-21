@@ -32,5 +32,5 @@ Other symptoms one can experience if have typhoid. For example, body temperature
 If the person is having any other questions, he/she can write them and then submit the form.
 ![image](https://user-images.githubusercontent.com/79050917/164364365-0111e026-f1f9-4838-8092-b7a75fd2279c.png)
 
-Details are saved of the survey [here](https://docs.google.com/spreadsheets/d/1OjmMb9CJOoyP-dBj8b-IL7Cc5ZNn6n4ufmlHxr6o-v8/edit?resourcekey#gid=2084304368)
-Link of the form [Click here](https://forms.gle/YgCXSh6UsBx2BFdFA)
+- Details are saved of the survey [here](https://docs.google.com/spreadsheets/d/1OjmMb9CJOoyP-dBj8b-IL7Cc5ZNn6n4ufmlHxr6o-v8/edit?resourcekey#gid=2084304368)
+- Link of the form [Click here](https://forms.gle/YgCXSh6UsBx2BFdFA)
