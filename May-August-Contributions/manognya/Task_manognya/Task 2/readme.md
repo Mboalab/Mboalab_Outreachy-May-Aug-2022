@@ -17,7 +17,7 @@ We see many-many people are not getting clarity why this typhoid diseases is spr
 
 
 
-Keeping in mind, I have designed an app which could help the end users to connect through the problem and get cured. There are many features in this app. This app will gguide the end users to know about the app desire, conditions, how to run the app, how to click photos, how to upload those photos, getting help by nearby doctors arund them, getting connected with the people who can help them, calendar to mark things, notificatiion box to get messages, remainders etc.
+Keeping in mind, I have designed an app which could help the end users to connect through the problem and get cured. There are many features in this app. This app will guide the end users to know about the app desire, conditions, how to run the app, how to click photos, how to upload those photos, getting help by nearby doctors arund them, getting connected with the people who can help them, calendar to mark things, notificatiion box to get messages, remainders etc.
 
 
 
