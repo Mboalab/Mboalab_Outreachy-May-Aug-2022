@@ -91,21 +91,15 @@ Devices
 Setting up the environment
 ------
 
--Android Studio
+- Android Studio
 
 If you are a newbie, need some guidance to install the Android Studio [click here!](https://www.youtube.com/watch?v=0zx_eFyHRU0) 
 
 - Once, downloaded, set up the installation. [click here to setup!](https://www.youtube.com/watch?v=SQTwtawsdeU)
 - documentation for the same [I will guide you!](https://stackoverflow.com/questions/27570516/how-to-open-an-existing-project-in-android-studio)
+
+TensorFlow  
 - [TensorFlow Hub](https://tfhub.dev/ml-kit/collections/image-classification/1)
-
-
-
-- The next steps are to fork, clone and download the source codes.
-- you can check the app running successfully or not by connecting the USB Cable to your mobile or any visible device which satisfies the conditions.
-- Tap "OK" on the tablet when prompted to "Allow USB debugging"
-- woah! done.
-
 
 
 # Future Plans
