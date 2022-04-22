@@ -4,32 +4,35 @@ I am manognya dasika, `an outreachy applicant` -2022. '
 
 > **This task is assigned under @JAFSIA Elisee mentor. Thank you mentor for guiding me throught the task completion. ✨✨**
 
-Overview ⚠️
+Overview 💻
 =================================================================================================
 We see many-many people are not getting clarity why this typhoid diseases is spreading. Neither the doctors cannot say how the pain is and at the same time, nor the patients can.
 
-Keeping in mind, I have designed an app which could help the end users to connect through the problem and get cured. There are many features in this app. like -
+
+
+Keeping in mind, I have designed an app which could help the end users to connect through the problem and get cured. There are many features in this app. This app will gguide the end users to know about the app desire, conditions, how to run the app, how to click photos, how to upload those photos, getting help by nearby doctors arund them, getting connected with the people who can help them, calendar to mark things, notificatiion box to get messages, remainders etc.
+
+let us know more about the features-
 
 1️⃣ home page
 
-2️⃣ about page
+2️⃣ about page ❓
 
 3️⃣ feed page
 
 4️⃣ chat page
 
-5️⃣ notifications box
+5️⃣ notifications box 🔔
 
 6️⃣ profile page
 
-7️⃣ calendar page
+7️⃣ calendar page 📅
 
 8️⃣ analysis page
 
-and mainly **camera page** 
--------
-This page is the main criteria of the app. Because through this image only we will be able to detect the symptoms followed by the disease.
---------
+and camera page 📷
+
+# Details of each features -
 
 1. home page -
 the end users can go to this page ansd search for the related issues where they are facing. You can just scroll the pages. Join the communities and much more !
@@ -55,15 +58,17 @@ get reminded things by this app
 8. analysis -
 this will tell you how much your health is and also how much you need energy. 
 
+9. mainly **camera page** 📷 - This page is the main criteria of the app. Because through this image only we will be able to detect the symptoms followed by the disease.
+
 ------------------------------------------------------------------------------------------------------------
 
-> Here, I am would like to share the prototype of my design. Hope you like it.
+> Here, I am would like to share the prototype of my design. Hope you like it. I have done up to my best. Any feedbacks given would be great. I would like to improve myself more. 
 
 ------------------------------------------------------------------------------------------------------------
 link to my design - [go to the design 💹!](https://www.figma.com/proto/wOwgNHSXp79SlvTifTneYb/mboalab?node-id=0%3A1502&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A1502)
 
 
-Feautres 
+Device highlights
 ------
 - High resolution camera
 - Gallery (to collect the captured images.)
@@ -83,3 +88,30 @@ If you are a newbie, need some guidance to install the Android Studio [click her
 - Once, downloaded, set up the installation. [click here to setup!](https://www.youtube.com/watch?v=SQTwtawsdeU)
 - documentation for the same [I will guide you!](https://stackoverflow.com/questions/27570516/how-to-open-an-existing-project-in-android-studio)
 
+Getting started with the project 
+- Cool ! You are all set now. 
+- The next steps are to fork, clone and download the source codes.
+- you can check the app running successfully or not by connecting the USB Cable to your mobile or any visible device which satisfies the conditions.
+- Tap "OK" on the tablet when prompted to "Allow USB debugging"
+- woah! done.
+
+
+
+# Future Plans
+- image detection through scanning. Now, we are trying to detect the symptoms after taking images. also  without any storage waste, while scanning itself we can detect the symptoms.
+- Any lens software so that there would be easy to scan
+- Location nearby the user device. If any emergency, they need help. We can send the message to the hospitals around the location. Using radio signals we can analyze the distance. 
+
+
+# Tech stacks
+- Android Studio
+- Figma
+- Android build
+- Android Tool
+- Framework
+- Lottie Files
+
+Conclusions
+----
+
+Herby, I would like to work and contribute more on this project. I am looking forward to improve the detection of Typhoid disease. Thanks a lot once again.
