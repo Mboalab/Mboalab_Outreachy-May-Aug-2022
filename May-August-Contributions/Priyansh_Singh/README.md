@@ -17,7 +17,6 @@ and portfolio here https://ps-19.github.io/Portfolio/.
 # Useless Links
 - https://ps-19.github.io/Resume
 - https://github.com/ps-19
-
 - https://reviews.llvm.org/p/ps-19/
 - https://github.com/ersilia-os/ersilia/pulls?q=is%3Apr+author%3Aps-19+is%3Aclosed
 - https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/pulls?q=is%3Apr+author%3Aps-19+is%3Aclosed
