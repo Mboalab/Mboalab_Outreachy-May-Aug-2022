@@ -92,6 +92,7 @@ Setting up the environment
 ------
 
 - Android Studio
+- IOS
 
 If you are a newbie, need some guidance to install the Android Studio [click here!](https://www.youtube.com/watch?v=0zx_eFyHRU0) 
 
@@ -106,14 +107,6 @@ TensorFlow
 - image detection through scanning. Now, we are trying to detect the symptoms after taking images. also  without any storage waste, while scanning itself we can detect the symptoms.
 - Any lens software so that there would be easy to scan
 - Location nearby the user device. If any emergency, they need help. We can send the message to the hospitals around the location. Using radio signals we can analyze the distance. 
-
-
-# Tech stacks
-- 
-- Figma
-- 
-- Framework
-- Lottie Files
 
 Conclusions
 ----
