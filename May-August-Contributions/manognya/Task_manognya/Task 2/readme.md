@@ -60,6 +60,9 @@ this will tell you how much your health is and also how much you need energy.
 
 9. mainly **camera page** 📷 - This page is the main criteria of the app. Because through this image only we will be able to detect the symptoms followed by the disease.
 
+
+![image ](https://github.com/manognyaa/manognya_dasika_Mboalab_Outreachy-May-Aug-2022/blob/main/May-August-Contributions/manognya/Task_manognya/Task%202/pictures/ss4.png)
+
 ------------------------------------------------------------------------------------------------------------
 
 > Here, I am would like to share the prototype of my design. Hope you like it. I have done up to my best. Any feedbacks given would be great. I would like to improve myself more. 
