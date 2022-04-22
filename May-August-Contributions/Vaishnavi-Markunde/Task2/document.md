@@ -68,18 +68,22 @@ Here we can use convulational neural networks for predicting results from images
 ### Tools :
 
 - Web development
-- App development
-- Data collection tool
+- App development - Flutter/ React
+- Data collection tool - Website
 - Data analysis
-- Machine learning
-- Deep learning
+- Machine learning - Classification algorithms
+- Deep learning - Image processing (CNN)
 
 
 <br>
 
-Link to UI design of the app : [Figma](https://www.figma.com/file/bLXL66RlT2SrjLsM8fOHyA/Mboalab-Task-2?node-id=0%3A1)
+Following is the detailed documentation including app development and model training details :
 
-Link to technical documentation : [Doc](https://docs.google.com/document/d/1aJX9FH0ofHTcZoKshxSxmnnVIVBxyVw86gZKrZOWtd8/edit?usp=sharing)
+**Link to detailed technical documentation : [Technical Documentation](https://docs.google.com/document/d/1aJX9FH0ofHTcZoKshxSxmnnVIVBxyVw86gZKrZOWtd8/edit?usp=sharing)**
+
+**Link to UI design of the app : [Figma](https://www.figma.com/file/bLXL66RlT2SrjLsM8fOHyA/Mboalab-Task-2?node-id=0%3A1)**
+
+
 
 
 
