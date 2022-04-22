@@ -14,7 +14,7 @@ I have experience in complete(backend and frontend) software development and web
 My github account is https://github.com/ps-19 and my resume could be found here https://bit.ly/3IiJ6XD, email is (priyansh.singh100@gmail.com)
 and portfolio here https://ps-19.github.io/Portfolio/. 
 
-# Useless Links
+# Some Important Links
 - https://ps-19.github.io/Resume
 - https://github.com/ps-19
 - https://reviews.llvm.org/p/ps-19/
