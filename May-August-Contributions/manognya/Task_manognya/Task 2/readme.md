@@ -4,6 +4,13 @@ I am manognya dasika, `an outreachy applicant` -2022. '
 
 > **This task is assigned under @JAFSIA Elisee mentor. Thank you mentor for guiding me throught the task completion. ✨✨**
 
+
+Tools to build the app
+----
+- Android Studio 
+- ML Models are build using tensorFlow Lite Model Maker and then integrated into our app (as TFLite models are compatible with ML Kit, Google's mobile SDK that makes it easy to use ML in our Android and iOS apps) or we can Google Cloud API's like [Cloud Vision](https://cloud.google.com/vision/) or we can use  Firebase [AutoML Vision Edge](https://firebase.google.com/docs/ml/automl-image-labeling) for analysis.
+- we can use SQLIte Android to create a local database of the patient's data which is not recommended as it will increase app size , we can use Firebase realtime Database - the data will be in sync up to date , if the data is very large we can use Gcloud- [Cloud SQL](https://cloud.google.com/sql) to store our data .
+
 Overview 💻
 =================================================================================================
 We see many-many people are not getting clarity why this typhoid diseases is spreading. Neither the doctors cannot say how the pain is and at the same time, nor the patients can.
@@ -11,6 +18,9 @@ We see many-many people are not getting clarity why this typhoid diseases is spr
 
 
 Keeping in mind, I have designed an app which could help the end users to connect through the problem and get cured. There are many features in this app. This app will gguide the end users to know about the app desire, conditions, how to run the app, how to click photos, how to upload those photos, getting help by nearby doctors arund them, getting connected with the people who can help them, calendar to mark things, notificatiion box to get messages, remainders etc.
+
+
+
 
 let us know more about the features-
 
@@ -60,39 +70,29 @@ this will tell you how much your health is and also how much you need energy.
 
 9. mainly **camera page** 📷 - This page is the main criteria of the app. Because through this image only we will be able to detect the symptoms followed by the disease.
 
-
-![image ](https://github.com/manognyaa/manognya_dasika_Mboalab_Outreachy-May-Aug-2022/blob/main/May-August-Contributions/manognya/Task_manognya/Task%202/pictures/ss4.png)
+![image](https://user-images.githubusercontent.com/77045147/164713959-95d15daf-fcc7-4862-b78e-f2c38c4f5082.png)
 
 ------------------------------------------------------------------------------------------------------------
 
-> Here, I am would like to share the prototype of my design. Hope you like it. I have done up to my best. Any feedbacks given would be great. I would like to improve myself more. 
+> Here, I am would like to share the prototype of my design. Hope you like it. Any feedbacks given would be great. I would like to improve myself more. 
 
 ------------------------------------------------------------------------------------------------------------
 link to my design - [go to the design 💹!](https://www.figma.com/proto/wOwgNHSXp79SlvTifTneYb/mboalab?node-id=0%3A1502&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A1502)
-
-
-Tools to build the app
-----
-- Android Studio 
-- Models are build using tensorFlow Lite Model Maker and then integrated into our app (as TFLite models in this collection are compatible with ML Kit, Google's mobile SDK that makes it easy to use ML in your Android and iOS apps) or we can Google Cloud API's like [Cloud Vision](https://cloud.google.com/vision/) or we can use  Firebase [AutoML Vision Edge](https://firebase.google.com/docs/ml/automl-image-labeling) for analysis.
-- we can create a local database of the patient data using SQLIte Android which is not recommended as it will increase app size so it we can use Firebase realtime Database - the data will be sync.
-
 
 Device highlights
 ------
 - High resolution camera
 - Gallery (to collect the captured images.)
-- Uploading images and dataform
+- Uploading images and data from local storage.
 
 Devices
 ----
 - Android
 
-Setting up the environment
+Guide for the setup
 ------
 
 - Android Studio
-- IOS
 
 If you are a newbie, need some guidance to install the Android Studio [click here!](https://www.youtube.com/watch?v=0zx_eFyHRU0) 
 
@@ -104,8 +104,7 @@ TensorFlow
 
 
 # Future Plans
-- image detection through scanning. Now, we are trying to detect the symptoms after taking images. also  without any storage waste, while scanning itself we can detect the symptoms.
-- Any lens software so that there would be easy to scan
+- Live cell detection through Camera, we are trying to detect the symptoms after taking images, while scanning the image our ML Model will detect the symptoms. like Google lense 
 - Location nearby the user device. If any emergency, they need help. We can send the message to the hospitals around the location. Using radio signals we can analyze the distance. 
 
 Conclusions
