@@ -116,6 +116,7 @@ Follow the instructions in the Android Developer Docs to [Run apps on Android Em
 - AI
 - Data Analysis
 - Web Scrapping
+- Image Processing
 
 # Lincense
 All of the mentioned resources and source code in this directory authored by Priyansh Singh is licensed under MIT Lincense. The contribution, usage and distribution of the code is goverened by the mentioned lincense. For educational purpose and non-profit initiative the source code is free to use and modified.
