@@ -24,7 +24,7 @@ The most common data sources to collect data for a ML models are:
 - **Synthetic Datasets**
 - **Manual Data Generation**
 
-I have used two methods to for data collection tool to record symptoms Data.
+I have used three methods to for data collection tool to record symptoms Data.
 
 # Method
 

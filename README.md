@@ -74,4 +74,5 @@ Information about the assigned mentor can be found in the task’s descriptions.
 Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors#readme).
 
 See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors)
+
 Feel free to reach out `@Bido` and `@Nodira` for more guidance and details.
