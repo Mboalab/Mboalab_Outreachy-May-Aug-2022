@@ -9,7 +9,7 @@ Tools to build the app
 ----
 - Android Studio 
 - ML Models are build using tensorFlow Lite Model Maker and then integrated into our app (as TFLite models are compatible with ML Kit, Google's mobile SDK that makes it easy to use ML in our Android and iOS apps) or we can Google Cloud API's like [Cloud Vision](https://cloud.google.com/vision/) or we can use  Firebase [AutoML Vision Edge](https://firebase.google.com/docs/ml/automl-image-labeling) for analysis.
-- we can use SQLIte Android to create a local database of the patient's data which is not recommended as it will increase app size , we can use Firebase realtime Database - the data will be in sync up to date , if the data is very large we can use Gcloud- [Cloud SQL](https://cloud.google.com/sql) to store our data .
+- we can use SQLIte Android to create a local database of the patient's data which is not recommended as it will increase app size , we can use Firebase realtime Database - the data will be in sync up to date , if the data is very large we can use Gcloud Storage like - [DataProc](https://cloud.google.com/dataproc/docs) to store our data .
 
 Overview 💻
 =================================================================================================
