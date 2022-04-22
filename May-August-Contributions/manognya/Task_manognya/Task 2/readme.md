@@ -2,7 +2,7 @@ Hello,
 
 I am manognya dasika, `an outreachy applicant` -2022. '
 
-> **This task is assigned under @JAFSIA Elisee mentor. Thank you mentor for guiding me throught the task completion. ✨✨**
+> **This task is assigned under @JAFSIA Elisee mentor. Thank you mentor for guiding me throughout the task completion. ✨✨**
 
 
 Tools to build the app
