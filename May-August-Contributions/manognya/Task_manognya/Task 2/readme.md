@@ -26,6 +26,10 @@ Keeping in mind, I have designed an app which could help the end users to connec
 
 8️⃣ analysis page
 
+and mainly **camera page** 
+
+This page is the main criteria of the app. Because through this image only we will be able to detect the symptoms followed by the disease.
+
 
 1. home page -
 the end users can go to this page ansd search for the related issues where they are facing. You can just scroll the pages. Join the communities and much more !
