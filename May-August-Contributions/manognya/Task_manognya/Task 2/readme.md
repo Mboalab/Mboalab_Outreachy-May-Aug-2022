@@ -27,9 +27,9 @@ Keeping in mind, I have designed an app which could help the end users to connec
 8️⃣ analysis page
 
 and mainly **camera page** 
-
+-------
 This page is the main criteria of the app. Because through this image only we will be able to detect the symptoms followed by the disease.
-
+--------
 
 1. home page -
 the end users can go to this page ansd search for the related issues where they are facing. You can just scroll the pages. Join the communities and much more !
@@ -61,3 +61,25 @@ this will tell you how much your health is and also how much you need energy.
 
 ------------------------------------------------------------------------------------------------------------
 link to my design - [go to the design 💹!](https://www.figma.com/proto/wOwgNHSXp79SlvTifTneYb/mboalab?node-id=0%3A1502&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A1502)
+
+
+Feautres 
+------
+- High resolution camera
+- Gallery (to collect the captured images.)
+- Uploading images and dataform
+
+Devices
+----
+- Android
+
+Setting up the environment
+------
+
+-Android Studio
+
+If you are a newbie, need some guidance to install the Android Studio [click here!](https://www.youtube.com/watch?v=0zx_eFyHRU0) 
+
+- Once, downloaded, set up the installation. [click here to setup!](https://www.youtube.com/watch?v=SQTwtawsdeU)
+- documentation for the same [I will guide you!](https://stackoverflow.com/questions/27570516/how-to-open-an-existing-project-in-android-studio)
+
