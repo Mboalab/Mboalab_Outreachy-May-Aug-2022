@@ -10,9 +10,9 @@
   ![Mboalab](https://user-images.githubusercontent.com/63330165/161022905-50be0130-c1f8-4beb-95ea-137e6c780d5e.jpg)
   
 <a href="https://twitter.com/LabMboa" ><img src="https://img.shields.io/twitter/follow/LabMboa.svg?style=social" /> </a>
-<a href="https://www.mboalab.africa/"><img src="https://img.shields.io/discord/.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
+<a href="https://website-mboalab.vercel.app/"><img src="https://img.shields.io/discord/.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://www.mboalab.africa/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/LabMboa)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mboalab/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:thomasmboa@gmail.com)
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://www.mboalab.africa/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/LabMboa)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/company/mboalab/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mboalab/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:thomasmboa@gmail.com)
   
   </div>
   
@@ -71,7 +71,7 @@ Check the Contributions Guidelines and the list of details via [Technical Docume
 Each project’s Starter Task is supervised by a specific mentor. Applicants desiring to contribute to a specific task should get in touch with the assigned mentor. 
 Information about the assigned mentor can be found in the task’s descriptions.
 
-Information about Mboalab community Mentors can be found [Here](https://github.com/richarddushime/Mboalab_Outreachy-May-Aug-2022/tree/outreachy-2022/Meet_the_Mentors#readme).
+Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors#readme).
 
-See [Meet the Mentors Folder.](https://github.com/richarddushime/Mboalab_Outreachy-May-Aug-2022/tree/outreachy-2022/Meet_the_Mentors)
+See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors)
 Feel free to reach out `@Bido` and `@Nodira` for more guidance and details.
