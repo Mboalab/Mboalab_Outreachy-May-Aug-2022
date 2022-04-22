@@ -71,6 +71,13 @@ this will tell you how much your health is and also how much you need energy.
 link to my design - [go to the design 💹!](https://www.figma.com/proto/wOwgNHSXp79SlvTifTneYb/mboalab?node-id=0%3A1502&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=0%3A1502)
 
 
+Tools to build the app
+----
+- Android Studio 
+- Models are build using tensorFlow Lite Model Maker and then integrated into our app (as TFLite models in this collection are compatible with ML Kit, Google's mobile SDK that makes it easy to use ML in your Android and iOS apps) or we can Google Cloud API's like [Cloud Vision](https://cloud.google.com/vision/) or we can use  Firebase [AutoML Vision Edge](https://firebase.google.com/docs/ml/automl-image-labeling) for analysis.
+- we can create a local database of the patient data using SQLIte Android which is not recommended as it will increase app size so it we can use Firebase realtime Database - the data will be sync.
+
+
 Device highlights
 ------
 - High resolution camera
@@ -90,9 +97,10 @@ If you are a newbie, need some guidance to install the Android Studio [click her
 
 - Once, downloaded, set up the installation. [click here to setup!](https://www.youtube.com/watch?v=SQTwtawsdeU)
 - documentation for the same [I will guide you!](https://stackoverflow.com/questions/27570516/how-to-open-an-existing-project-in-android-studio)
+- [TensorFlow Hub](https://tfhub.dev/ml-kit/collections/image-classification/1)
 
-Getting started with the project 
-- Cool ! You are all set now. 
+
+
 - The next steps are to fork, clone and download the source codes.
 - you can check the app running successfully or not by connecting the USB Cable to your mobile or any visible device which satisfies the conditions.
 - Tap "OK" on the tablet when prompted to "Allow USB debugging"
@@ -107,10 +115,9 @@ Getting started with the project
 
 
 # Tech stacks
-- Android Studio
+- 
 - Figma
-- Android build
-- Android Tool
+- 
 - Framework
 - Lottie Files
 
