@@ -1,0 +1,164 @@
+<!DOCTYPE html lang="en">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="index.css">
+    <link rel="icon" href="images/favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <title>Typhoid Diagnosis Tool</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </head>
+  <body>
+      
+    <div class="background_image">
+      <div class="container-fluid">
+      <nav class="navbar navbar-expand-lg  navbar-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" id="home"href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="register_patient"href="#register_patient_text">Register Patient</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="patient_symptoms"href="#patient_symptoms_text">Patient Symptoms</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="feedback"href="#feedback_text">Give a Feedback</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      </div>
+    <br><br><br>
+    <div class="mboalab_quote">
+           <h1  style="font-size: 50px">MBOALAB Typhoid Diagnosis Tool</h1><br>
+           <h2 >" Take care of yourself, be healthy, and always believe<br>you can be successful in anything you truly want "<br>-Alessandra Ambrosio </h2>
+    </div>
+  </div>
+    <div id="all_register_div">
+          <a name="register_patient_text" class="register_patient_text">Register Patient</a><br>
+          <img class="register_image" src="images/patty-brito-Y-3Dt0us7e0-unsplash.jpg"><br>
+          <p class="image_text">Every year up to two hundred thousand people in the world die from Typhoid Fever.<br> Take the first step today and fight Typhoid.</p>
+    </div>
+    <div class="register_patient_div">
+      <div id="register_border_div">
+            <div class="register_div">
+                 <form id="myForm">
+                 <input type="text" placeholder="Name" required class="register_inputs"><br>
+                 <input type="number" placeholder="Age" required class="register_inputs"><br>
+                 <input type="text" placeholder="Sex" required class="register_inputs"><br>
+                 <input type="number" placeholder="Phone" required class="register_inputs"><br>
+                 <input type="email" placeholder="Email" class="register_inputs"><br>
+                 <input type="text" placeholder="City, Country" required class="register_inputs">
+             </div>
+      </div>
+    </div>
+    <div class="patient_symptoms_div">
+        <a name="patient_symptoms_text" class="patient_symptoms_text">Patient Symptoms</a>
+           <p>Fever:</p>
+           <input type="radio" class="radio" name="fever"/>
+           <label for="high">High</label>
+           <input type="radio" class="radio" name="fever"/>
+           <label for="med">Medium</label>
+           <input type="radio" class="radio" name="fever"/>
+           <label>Low</label>
+           <p>Headaches:</p>
+           <input type="radio" class="radio" name="headache"/>
+           <label for="high">High</label>
+           <input type="radio" class="radio" name="headache"/>
+           <label for="med">Medium</label>
+           <input type="radio" class="radio" name="headache"/>
+           <label>Low</label>
+           <p>Diarrhea:</p>
+           <input type="radio" class="radio" name="diarrhea"/>
+           <label for="high">High</label>
+           <input type="radio" class="radio" name="diarrhea"/>
+           <label for="med">Medium</label>
+           <input type="radio" class="radio" name="diarrhea"/>
+           <label>Low</label>
+           <p>General body pain/aches:</p>
+           <input type="radio" class="radio" name="pain"/>
+           <label for="high">High</label>
+           <input type="radio" class="radio" name="pain"/>
+           <label for="med">Medium</label>
+           <input type="radio" class="radio" name="pain"/>
+           <label>Low</label>
+           <p>Lethargy:</p>
+           <input type="radio" class="radio" name="lethargy"/>
+           <label for="high">High</label>
+           <input type="radio" class="radio" name="lethargy"/>
+           <label for="med">Medium</label>
+           <input type="radio" class="radio" name="lethargy"/>
+           <label>Low</label>
+           <p>Constipation:</p>
+           <input type="radio" class="radio" name="constipation"/>
+           <label for="high">High</label>
+           <input type="radio" class="radio" name="constipation"/>
+           <label for="med">Medium</label>
+           <input type="radio" class="radio" name="constipation"/>
+           <label>Low</label>
+           <p>Fatigue:</p>
+           <input type="radio" class="radio" name="fatigue"/>
+           <label for="high">High</label>
+           <input type="radio" class="radio" name="fatigue"/>
+           <label for="med">Medium</label>
+           <input type="radio" class="radio" name="fatigue"/>
+           <label>Low</label>
+           <p>Cough:</p>
+           <input type="radio" class="radio" name="cough"/>
+           <label for="high">High</label>
+           <input type="radio" class="radio" name="cough"/>
+           <label for="med">Medium</label>
+           <input type="radio" class="radio" name="cough"/>
+           <label>Low</label>
+           <p>Loss of Appetite:</p>
+           <input type="radio" class="radio" name="appetite"/>
+           <label for="high">High</label>
+           <input type="radio" class="radio" name="appetite"/>
+           <label for="med">Medium</label>
+           <input type="radio" class="radio" name="appetite"/>
+           <label>Low</label>
+           <p>Weight Loss:</p>
+           <input type="radio" class="radio" name="weight"/>
+           <label for="high">High</label>
+           <input type="radio" class="radio" name="weight"/>
+           <label for="med">Medium</label>
+           <input type="radio" class="radio" name="weight"/>
+           <label>Low</label><br><br>
+           <input type="submit" class="submit_form" value="Submit Form"/>
+          <button type="result" class="typhoid_severity"><a href="TyphoidSeverity.html" class="typhoid_severity_link" target="_blank">Typhoid Severity</a></button>
+        </form>
+    </div>
+    <div class="feedback_div">
+        <a name="feedback_text" class="feedback_text">Give a Feedback</a>
+        <form action="mailto:oladipo.bisola7@gmail.com" method="post" enctype="text/plain">
+            <textarea class="message" placeholder="Message" name="Feedback"></textarea><br>
+            <input type="submit" class="message_submit"/>
+        </form>
+    </div>
+    <script>
+            document.getElementById("myForm").addEventListener("submit", myFunction);
+
+            function myFunction() {
+                  alert("Thank you, your form has been submitted");
+            }
+    </script>
+    <footer>
+        <i class="fa fa-facebook" id="socialfacebook"></i>
+        <i class="fa fa-twitter" id="socialtwitter"></i>
+        <i class="fa fa-linkedin" id="sociallinkedin"></i>
+        <i class="fa fa-instagram" id="socialinstagram"></i>
+        <p>©2022 Bisola Oladipo|All Rights Reserved</p>
+    </footer>
+  </body>
+</html>

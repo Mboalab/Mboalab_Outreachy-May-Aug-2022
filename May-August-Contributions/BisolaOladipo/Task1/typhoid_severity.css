@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    background-color: skyblue;
+}
+h1{  
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+}
+p{
+    color: blue;
+    font-size: 20px;
+    text-align: center;
+}
+.green{
+    background-color: seagreen;
+    width: 300px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+.yellow{
+    background-color: yellow;
+    width: 300px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
+.red{
+    background-color: red;
+    width: 300px;
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 100px;
+}
