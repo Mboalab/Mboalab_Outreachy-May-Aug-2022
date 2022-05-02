@@ -1,7 +1,8 @@
 # Getting started with open source
 
 <p> Hi everyone, </p>
-My name is **Agien Petra Ukeh**,and I just graduated with a B.TECH in computer Software Engineering this December.
+My name is **Agien Petra Ukeh** , and I just graduated with a B.TECH in computer Software Engineering this December.
+<p> Being a techie, and passionate about medicines, given my background, Mboalab got me interested in this internship round </p>.
 <p> I am happy to be able to contribute to this project on having a tool to collect typhoid fever clinical data symptom variables that will allow confirm the diagnosis of typhoid and level of severity of the disease, taking into account, local and context specificities e.g, language. </p>
 <p> 
  Being a girl in tech, growing up with a nurse, and assisting to sell at my mother's pharmacy, landing at an organization such as Mboalab is an amazing experience.</p> 
