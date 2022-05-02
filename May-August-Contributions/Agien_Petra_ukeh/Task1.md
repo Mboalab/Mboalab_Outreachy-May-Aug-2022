@@ -1,4 +1,4 @@
-# DATA COLLECTION TOOL
+# DATA COLLECTION TOOL FOR TYPHOID FEVER SCREENING
 
 <p> This task required participants to design a data collection tool to record symptoms and level of severity of tyhpoid fever disease as its objective. </P>
 <p> The data is to come from health practitioners who will fill the form for their patients and submit for further analysis. </p>
