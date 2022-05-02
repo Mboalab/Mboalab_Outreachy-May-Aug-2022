@@ -1,4 +1,4 @@
-# DESIGN A MOBILE APPLICATION FOR TYPHOID SCREENING
+# DESIGN A MOBILE APPLICATION FOR TYPHOID FEVER SCREENING
 
 <p> Tyscreener is a mobile app that assists in the diagnostic of typhoid fever with integrating features for wide and easy adoption and use. </p>
 
