@@ -61,6 +61,7 @@ We are primarily working on a project to support the mass production,  packaging
 In line with Outreachy’s guideline, the focus of our project is to prioritise the learning process and applicants' self-development over skill acquisition. 
 Both applicants with or without previous experience in open-source contributions and complete beginners are welcome to participate and contribute. 
 
+
 >**_Our main objective is to provide applicants with notions on open-source contributions and spirit, as well as with basics and advanced skills needed to complete the project;_**
 
 ## How to contribute to the project?
@@ -76,3 +77,7 @@ Information about Mboalab community Mentors can be found [Here](https://github.c
 See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors)
 
 Feel free to reach out `@Bido` and `@Nodira` for more guidance and details.
+
+##More about Mboalab
+
+Want to discover and explore this organization? check out this article on discovering Mboalab [here](https://medium.com/@agienpetra/discover-mboalab-7c78ee753793)
