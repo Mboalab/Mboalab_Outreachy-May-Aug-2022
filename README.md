@@ -65,7 +65,6 @@ Both applicants with or without previous experience in open-source contributions
 
 ## How to contribute to the project?
 Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022) on GitHub. 
-Check the Contributions Guidelines and the list of details via [Technical Documentation](https://docs.google.com/document/d/1fzB-AcfYNnsvqBlwyJZJR1SfuvpjYxxpONnv13bPGqg/edit?usp=sharing)
 
 ## Mentor attribution
 Each project’s Starter Task is supervised by a specific mentor. Applicants desiring to contribute to a specific task should get in touch with the assigned mentor. 
